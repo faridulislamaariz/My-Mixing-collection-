@@ -8,23 +8,32 @@ http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
 
 http://10.10.10.2/live/fnf001/index.m3u8
 
+#EXTINF:-1,T Sports HD
+http://10.16.100.213:8080/hls/tsports.m3u8
+
+#EXTINF:-1,T Sports HD
+http://10.16.100.206:8080/hls/tsports.m3u8
+
+#EXTINF:-1,Tsports Hd
+http://172.17.50.112:84/ant1005/video.m3u8
+
+#EXTINF:-1,Tsports Hd
+http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,T Sports HD
 
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
 
-#EXTINF:-1,Star Sports 1 HD
 
+#EXTINF:-1,T Sports HD
 http://10.10.10.2/live/fnf004/index.m3u8
 
+#EXTINF:-1,T Sports HD
+http://97.74.103.44:8089/amrbd/LIVE-SPORTS/playlist.m3u8
 
-#EXTINF:-1,Gazi Tv
+#EXTINF:-1,T Sports HD
+http://97.74.103.44:8089/amrbd/T-SPORTS/playlist.m3u8
 
-http://cdn.moviemazic.xyz:8083/live-5/index.m3u8
-
-#EXTINF:-1,Gazi Tv
-
-http://10.10.10.2/live/fnf003/index.m3u8
 
 #EXTINF:-1,allsports
 
@@ -46,6 +55,13 @@ http://cdn.moviemazic.xyz:8083/Feedget/TenCricket/index.m3u8
 #EXTINF:-1,beinspots_2
 
 http://cdn.moviemazic.xyz:8083/Feedget/beinspots_2/index.m3u8
+
+#EXTINF:-1,A sport Hd
+http://10.16.100.202:8080/hls/asports.m3u8
+
+
+#EXTINF:-1,A sport Hd
+http://10.16.100.206:8080/hls/asports.m3u8
 
 #EXTINF:-1,SONY-TEN-1
 http://cdn.moviemazic.xyz:8083/SONY-TEN-1/index.m3u8
@@ -70,6 +86,13 @@ http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/index.m3u8
 
 http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports5_39/index.m3u8
 
+#EXTINF:-1,SonyTenSports5
+http://172.17.50.112:84/ant1008/video.m3u8
+
+#EXTINF:-1,SonyTenSports5
+
+http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Star-Select-Hd-1
 
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-1/index.m3u8
@@ -92,6 +115,12 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/index.m3u8
 
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Sports-1-HD/index.m3u8
 
+#EXTINF:-1,Star-Sports-1-HD
+http://172.17.50.112:84/ant1001/video.m3u8
+
+#EXTINF:-1,Star-Sports-1-HD
+http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Star Sports 1 Hindi
 
 http://41.205.93.154/STARSPORTS1/index.m3u8
@@ -104,8 +133,15 @@ http://cdn.moviemazic.xyz:8083/Feedget/Star-Sports-2-HD/index.m3u8
 
 http://cdn.moviemazic.xyz:8083/Feedget/ptv_pk/index.m3u8
 
+#EXTINF:-1,PTV SPORTS
+http://10.16.100.206:8080/hls/PtvSportsHD.m3u8
+
+#EXTINF:-1,PTV SPORTS
+http://10.16.100.202:8080/hls/PtvSportsHD.m3u8
+
 #EXTINF:-1,PTV SportsHD
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
+
 
 #EXTINF:-1,ATN NEWS 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
@@ -114,6 +150,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/index.m3u8
 
+#EXTINF:-1,ATN News
+http://97.74.103.44:8089/amrbd/ATN-NEWS/playlist.m3u8
+
+#EXTINF:-1,BTV NEWS
+http://97.74.103.44:8089/amrbd/BTV-NEWS/playlist.m3u8
+
 #EXTINF:-1, channel24 
 
 http://cdn.moviemazic.xyz:8083/channel24/index.m3u8
@@ -121,6 +163,9 @@ http://cdn.moviemazic.xyz:8083/channel24/index.m3u8
 #EXTINF:-1, CHANNEL 24 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
+
+#EXTINF:-1, CHANNEL 24 
+http://97.74.103.44:8089/load/channel_24/playlist.m3u8
 
 #EXTINF:-1,Channel 24
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/index.m3u8
@@ -133,6 +178,9 @@ http://cdn.moviemazic.xyz:8083/DBCNews/index.m3u8
 
 #EXTINF:-1,DBC News
 http://tv.dugdugilive.com:8080/0ne$ky23/DBC/index.m3u8
+
+#EXTINF:-1,DBC News
+http://97.74.103.44:8089/amrbd/DBC-NEWS/playlist.m3u8
 
 #EXTINF:-1, EKATTOR NEWS 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
@@ -157,6 +205,24 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1,Independent TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Independent/index.m3u8
 
+
+#EXTINF:-1,Independent TV
+http://97.74.103.44:8089/amrbd/INDPENDENT-TV/playlist.m3u8
+
+#EXTINF:-1,Jamuna Tv
+
+http://cdn.moviemazic.xyz:8083/Feedget/JAMUNATV_27/index.m3u8
+
+#EXTINF:-1, JAMUNA NEWS 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1,Jamuna TV
+http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/index.m3u8
+
+
+#EXTINF:-1,Jamuna TV
+http://97.74.103.44:8089/amrbd/JAMUNA-TV/playlist.m3u8
+
 #EXTINF:-1,News 24
 
 http://cdn.moviemazic.xyz:8083/Feedget/NEWS24LIVE_23/index.m3u8
@@ -179,6 +245,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1,Somoy TV
 http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
 
+
+#EXTINF:-1,Somoy TV
+http://97.74.103.44:8089/amrbd/SOMOY-NEWS/playlist.m3u8
+
 #EXTINF:-1,STAR NEWS 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
@@ -197,12 +267,18 @@ https://live.thebosstv.com:30443/chlive/121212/playlist.m3u8
 #EXTINF:-1,Channel I 
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
 
+#EXTINF:-1,Channel I 
+http://97.74.103.44:8089/amrbd/CHANNEL-I/playlist.m3u8
+
 #EXTINF:-1,Asian tv
 http://tv.dugdugilive.com:8080/0ne$ky23/Asian/index.m3u8
 
 
 #EXTINF:-1,ATN Bangla
 http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/index.m3u8
+
+#EXTINF:-1,ATN Bangla
+http://97.74.103.44:8089/amrbd/ATN-BANGLA/playlist.m3u8
 
 #EXTINF:-1,BANGLA VISION 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
@@ -219,6 +295,13 @@ http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/index.m3u8
 #EXTINF:-1,Bangla tv
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/index.m3u8
 
+
+#EXTINF:-1,Bangla tv
+http://97.74.103.44:8089/amrbd/BANGLA-TV/playlist.m3u8
+
+#EXTINF:-1,Boishakhi Tv
+http://97.74.103.44:8089/amrbd/BOISHAKI-TV/playlist.m3u8
+
 #EXTINF:-1,BTV NATIONAL 
 
 http://cdn.moviemazic.xyz:8083/BTV-National/index.m3u8
@@ -232,6 +315,10 @@ http://tv.dugdugilive.com:8080/0ne$ky23/BTV/index.m3u8
 
 #EXTINF:-1, SANGSAD TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+#EXTINF:-1, Channel 9 
+http://97.74.103.44:8089/amrbd/CHANNEL-9/playlist.m3u8
+
 
 #EXTINF:-1,Deepto Tv
 
@@ -254,15 +341,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/index.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 
-#EXTINF:-1,Jamuna Tv
-
-http://cdn.moviemazic.xyz:8083/Feedget/JAMUNATV_27/index.m3u8
-
-#EXTINF:-1, JAMUNA NEWS 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-
-#EXTINF:-1,Jamuna TV
-http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/index.m3u8
 
 #EXTINF:-1,ETV
 
@@ -275,16 +353,31 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,ETV
 http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/index.m3u8
 
-#EXTINF:-1,ISLAMIC TV 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+#EXTINF:-1,Gazi Tv
+
+http://cdn.moviemazic.xyz:8083/live-5/index.m3u8
+
+#EXTINF:-1,Gazi Tv
+
+http://10.10.10.2/live/fnf003/index.m3u8
+
+
+#EXTINF:-1,Gazi Tv
+
+http://97.74.103.44:8089/amrbd/GTV/playlist.m3u8
 
 
 #EXTINF:-1, MAASRANGA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
+#EXTINF:-1, MAASRANGA TV
+http://97.74.103.44:8089/amrbd/MASRANGA-TV/playlist.m3u8
 
 #EXTINF:-1,Me TV
 https://iptvbd.live/metv1080/1080.m3u8 
+
+#EXTINF:-1,Mohona Tv
+http://97.74.103.44:8089/amrbd/MOHONA-TV/playlist.m3u8
 
 #EXTINF:-1, Movie Bangla 
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -295,6 +388,8 @@ http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF:-1, NTV HD 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
+#EXTINF:-1, NTV HD
+http://97.74.103.44:8089/amrbd/NTV/playlist.m3u8
 
 #EXTINF:-1,NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
@@ -307,6 +402,14 @@ http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 
 #EXTINF:-1, SA TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
+
+#EXTINF:-1, SA TV 
+http://97.74.103.44:8089/amrbd/SATV/playlist.m3u8
+
+#EXTINF:-1,ISLAMIC TV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
 
 #EXTINF:-1,Sunnah tv 
 
@@ -323,6 +426,8 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1,Arirang
 http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
+#EXTINF:-1, BBC news 
+http://97.74.103.44:8089/load/bbc_news/playlist.m3u8
 
 #EXTINF:-1,CBS NEWS
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
@@ -339,6 +444,9 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 #EXTINF:-1,Cnn News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8 
 
+#EXTINF:-1,Cnn News
+http://97.74.103.44:8089/load/cnn-hd/playlist.m3u8
+
 #EXTINF:-1,Cgtn Documentary 
 
 https://0472.org/hls/cgtn.m3u8
@@ -354,6 +462,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1,DW 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
+#EXTINF:-1,DW
+http://97.74.103.44:8089/hls/dw_tv/playlist.m3u8
 
 
 #EXTINF:-1,France 24
@@ -365,9 +475,14 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 
+#EXTINF:-1,INDIA TODAY
+http://97.74.103.44:8089/load/india_today/playlist.m3u8
+
 #EXTINF:-1,ND tv
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
+#EXTINF:-1,ND tv
+http://97.74.103.44:8089/load/NDTV/playlist.m3u8
 
 #EXTINF:-1,News Max
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8 
@@ -519,6 +634,14 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 
 #EXTINF:-1,Star Movie Hd
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Movies/index.m3u8
+
+
+#EXTINF:-1,Star Movie Hd
+http://172.17.50.112:84/ant1006/video.m3u8
+
+
+#EXTINF:-1,Star Movie Hd
+http://172.17.50.112:84/ant1006/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Star Gold 
 http://cdn.moviemazic.xyz:8083/Star-Gold/index.m3u8
