@@ -213,6 +213,9 @@ http://tv.dugdugilive.com:8080/0ne$ky23/DBC/index.m3u8
 #EXTINF:-1,DBC News
 http://97.74.103.44:8089/amrbd/DBC-NEWS/playlist.m3u8
 
+#EXTINF:-1,Desh Tv Hd 
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+
 #EXTINF:-1, EKATTOR NEWS 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
@@ -223,9 +226,6 @@ http://cdn.moviemazic.xyz:8083/Feedget/ekattor_nk_19/index.m3u8
 
 #EXTINF:-1,Ekattor TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/index.m3u8
-
-#EXTINF:-1,Global Tv
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 
 #EXTINF:-1, Independent 
 
@@ -406,6 +406,10 @@ http://10.10.10.2/live/fnf003/index.m3u8
 http://97.74.103.44:8089/amrbd/GTV/playlist.m3u8
 
 
+#EXTINF:-1,Global Tv
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+
+
 #EXTINF:-1, MAASRANGA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
@@ -444,6 +448,10 @@ http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 
 #EXTINF:-1,RTV HD
 http://97.74.103.44:8089/amrbd/RTV/playlist.m3u8
+
+
+#EXTINF:-1,RTV HD
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 
 #EXTINF:-1, SA TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
