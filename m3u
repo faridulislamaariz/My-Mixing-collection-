@@ -480,17 +480,27 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1,  AL JAZEERA
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 
+#EXTINF:-1,Africa 
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+
 #EXTINF:-1,Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8 
 
 #EXTINF:-1,Arirang
 http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
+
+#EXTINF:-1,Arirang
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/arirang_1gch.smil/playlist.m3u8
+
 #EXTINF:-1, BBC news 
 http://97.74.103.44:8089/load/bbc_news/playlist.m3u8
 
 #EXTINF:-1, BBC news
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1,BBC NEWS 
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 #EXTINF:1, BBC Two
 
@@ -542,6 +552,15 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 
+#EXTINF:-1,Gb News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+
+#EXTINF:-1,Nhk Japan 
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+#EXTINF:-1,Nhk Japan 
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
 #EXTINF:-1,INDIA TODAY
 http://97.74.103.44:8089/load/india_today/playlist.m3u8
 
@@ -566,6 +585,8 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1,Rt News 
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8 
 
+#EXTINF:-1,SABC NEWS 
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
 
 #EXTINF:-1,Sky  News 
 https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
@@ -578,6 +599,12 @@ https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-sk
 
 #EXTINF:-1,TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8 
+
+#EXTINF:-1,Talk tv
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+
+#EXTINF:-1,Cnn news 18 
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 
 #EXTINF:-1,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
@@ -734,6 +761,9 @@ http://110.39.27.47:8001/play/a018/index.m3u8
 #EXTINF:-1, History 
 http://97.74.103.44:8089/nimble_live/history/playlist.m3u8
 
+#EXTINF:-1,Motor vision
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+
 #EXTINF:-1,National Geographic 
 
 http://cdn.moviemazic.xyz:8083/Feedget/National-Geography/index.m3u8
@@ -753,8 +783,17 @@ http://45.148.145.57/IN_SONYBBCHD/index.m3u8
 
 https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?playback_start_ts=1763063441&yo.ap=https://lna.tubi.video/prd-yospace/&y
 
+#EXTINF:-1,Red bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 #EXTINF:-1,Tlc HD
 http://97.74.103.44:8089/nimble_live/tlchd/playlist.m3u8
+
+#EXTINF:-1,Travel xp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:-1,Wild earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 #EXTINF:-1,& Picture HD
 
