@@ -48,6 +48,9 @@ http://cdn.moviemazic.xyz:8083/Feedget/willow_usa/index.m3u8
 
 http://cdn.moviemazic.xyz:8083/Feedget/EurosportHD_17/index.m3u8
 
+#EXTINF:-1,EurosportHD
+http://97.74.103.44:8089/amrbd/EURO-SPORTS/playlist.m3u8
+
 #EXTINF:-1,TenCricket
 
 http://cdn.moviemazic.xyz:8083/Feedget/TenCricket/index.m3u8
@@ -63,11 +66,21 @@ http://10.16.100.202:8080/hls/asports.m3u8
 #EXTINF:-1,A sport Hd
 http://10.16.100.206:8080/hls/asports.m3u8
 
+
+#EXTINF:-1,A sport Hd
+http://97.74.103.44:8888/load/asports/playlist.m3u8
+
+#EXTINF:-1,Astro Cricket
+http://97.74.103.44:8089/load/astrocricket/playlist.m3u8
+
 #EXTINF:-1,SONY-TEN-1
 http://cdn.moviemazic.xyz:8083/SONY-TEN-1/index.m3u8
 
 #EXTINF:-1,Sony Ten 1
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/index.m3u8
+
+#EXTINF:-1,Sony Ten 1
+http://97.74.103.44:8089/amrbd/SONY-TEN-1/playlist.m3u8
 
 #EXTINF:-1,SonyTenSports2
 
@@ -76,6 +89,9 @@ http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports2_36/index.m3u8
 #EXTINF:-1,Sony Ten 2
 
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/index.m3u8
+
+#EXTINF:-1,Sony Ten 2
+http://97.74.103.44:8089/amrbd/SONY-TEN-2/playlist.m3u8
 
 #EXTINF:-1,Sony Ten 3 HD
 
@@ -93,13 +109,22 @@ http://172.17.50.112:84/ant1008/video.m3u8
 
 http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,SonyTenSports5
+http://97.74.103.44:8089/load/sony_six/playlist.m3u8
+
 #EXTINF:-1,Star-Select-Hd-1
 
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-1/index.m3u8
 
+#EXTINF:-1,Star-Select-Hd-1
+http://97.74.103.44:8089/amrbd/SPL-1/playlist.m3u8
+
 #EXTINF:-1,Star-Select-Hd-2
 
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-2/index.m3u8
+
+#EXTINF:-1,Star-Select-Hd-2
+http://97.74.103.44:8089/amrbd/SPL-2/playlist.m3u8
 
 
 #EXTINF:-1,Star-Sports-1-HD
@@ -121,6 +146,9 @@ http://172.17.50.112:84/ant1001/video.m3u8
 #EXTINF:-1,Star-Sports-1-HD
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Star-Sports-1-HD
+http://97.74.103.44:8089/amrbd/STAR-SPORTS-1/playlist.m3u8
+
 #EXTINF:-1,Star Sports 1 Hindi
 
 http://41.205.93.154/STARSPORTS1/index.m3u8
@@ -128,6 +156,9 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1,Star-Sports-2-HD
 
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Sports-2-HD/index.m3u8
+
+#EXTINF:-1,Star-Sports-2-HD
+http://97.74.103.44:8089/amrbd/STAR-SPORTS-2/playlist.m3u8
 
 #EXTINF:-1,PTV SPORTS 
 
@@ -606,21 +637,30 @@ http://97.74.103.44:8089/amrbd/ZEE-BANGLA/playlist.m3u8
 #EXTINF:-1,Zee Bangla HD
 http://97.74.103.44:8089/load/zee_bangla_HD/playlist.m3u8
 
-#EXTINF:-1,Zee cinema 
+#EXTINF:-1,Zee Bangla cinema 
 http://97.74.103.44:8089/amrbd/ZEE-BANGLA-CINEMA/playlist.m3u8
 
 #EXTINF:-1,Cartoon Network 
 
 http://cdn.moviemazic.xyz:8083/Feedget/CartoonNetwork_6/index.m3u8
 
+#EXTINF:-1,Cartoon Network 
+http://97.74.103.44:8089/amrbd/CN-NETWORK/playlist.m3u8
+
+#EXTINF:-1, Discovery Kids 
+
+http://97.74.103.44:8089/load/discoverykids/playlist.m3u8
 
 #EXTINF:-1,POGO 
 
 http://cdn.moviemazic.xyz:8083/Feedget/POGO_5/index.m3u8
 
-
 #EXTINF:-1, Jungle book 
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+#EXTINF:-1,Nick
+
+http://97.74.103.44:8089/load/nick_bangla/playlist.m3u8
 
 #EXTINF:-1, Rongeentv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
@@ -636,20 +676,53 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 
 http://cdn.moviemazic.xyz:8083/Feedget/AnimalPlanetHD_12/index.m3u8
 
+
+#EXTINF:-1, Animal Planet HD
+
+http://97.74.103.44:8089/load/animal_planet_hd/playlist.m3u8
+
+
 #EXTINF:-1, Discovery 
 
 http://cdn.moviemazic.xyz:8083/Feedget/Discovery/index.m3u8
 
+#EXTINF:-1, Discovery History 
+
+http://97.74.103.44:8089/load/discovery_history/playlist.m3u8
+
+#EXTINF:-1, Discovery science 
+
+http://97.74.103.44:8089/load/discovery-sci/playlist.m3u8
+
+#EXTINF:-1, History 
+http://97.74.103.44:8089/nimble_live/history/playlist.m3u8
 
 #EXTINF:-1,National Geographic 
 
 http://cdn.moviemazic.xyz:8083/Feedget/National-Geography/index.m3u8
 
+#EXTINF:-1,Nat Geo Wild 
+http://97.74.103.44:8089/load/natgeo_wild/playlist.m3u8
 
 
 #EXTINF:-1,Sony BBC Earth 
 http://45.148.145.57/IN_SONYBBCHD/index.m3u8
 
+#EXTINF:-1,Tlc HD
+http://97.74.103.44:8089/nimble_live/tlchd/playlist.m3u8
+
+#EXTINF:-1,& Picture HD
+
+http://cdn.moviemazic.xyz:8083/andpictureHD/index.m3u8
+
+#EXTINF:-1,& Picture HD
+http://97.74.103.44:8089/amrbd/AND-PICTURE/playlist.m3u8
+
+#EXTINF:-1,& Flix Hd 
+http://97.74.103.44:8089/nimble_live/andflix/playlist.m3u8
+
+#EXTINF:-1,& Prive 
+http://97.74.103.44:8089/nimble_live/andprive/playlist.m3u8
 
 #EXTINF:-1,Goldmines
 https://cdn-2.pishow.tv/live/1459/1459_2.m3u8
@@ -673,10 +746,15 @@ http://172.17.50.112:84/ant1006/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold 
 http://cdn.moviemazic.xyz:8083/Star-Gold/index.m3u8
 
+#EXTINF:-1,Star plus 
+http://97.74.103.44:8089/load/STAR%20PLUS%20HD/playlist.m3u8
+
 #EXTINF:-1,Sony Tv
 
 http://cdn.moviemazic.xyz:8083/Feedget/SonyEntertainmentTelevisionHD_9/index.m3u8
 
+#EXTINF:-1,Sony Tv
+http://97.74.103.44:8089/amrbd/SONY-ENT/playlist.m3u8
 
 
 #EXTINF:-1,Sony max
@@ -685,12 +763,6 @@ http://cdn.moviemazic.xyz:8083/Feedget/SonyMAX_37/index.m3u8
 #EXTINF:-1,Sony Sab Hd
 
 http://cdn.moviemazic.xyz:8083/Feedget/SonySABHD_10/index.m3u8
-
-#EXTINF:-1,& Picture HD
-
-http://cdn.moviemazic.xyz:8083/andpictureHD/index.m3u8
-
-
 #EXTINF:-1,ZEE CINEMA HD
 
 http://cdn.moviemazic.xyz:8083/Feedget/ZeeCinemaHD_38/index.m3u8
@@ -700,9 +772,14 @@ http://cdn.moviemazic.xyz:8083/Feedget/ZeeCinemaHD_38/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/index.m3u8
 
 
+#EXTINF:-1,Zee Cinema HD
+http://97.74.103.44:8089/amrbd/ZEE-CINEMA/playlist.m3u8
+
 #EXTINF:-1,Movies Action 
 https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
+#EXTINF:-1,Sky movie 
+http://97.74.103.44:8089/load/skymovselect/playlist.m3u8
 
 #EXTINF:-1, TV5 MONDE 
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
@@ -711,6 +788,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 
 
+#EXTINF:-1,9xm
+http://97.74.103.44:8089/load/9xm/playlist.m3u8
+
+#EXTINF:-1,9x jalwa
+http://97.74.103.44:8089/load/9x_jalwa/playlist.m3u8
 
 
 #EXTINF:-1,Balleballe
@@ -725,7 +807,8 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1,Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8?v=1
 
-
+#EXTINF:-1,Ary Digital 
+http://97.74.103.44:8089/load/arydigital/playlist.m3u8
 
 #EXTINF:-1,DUNYA NEWS
 https://imob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
