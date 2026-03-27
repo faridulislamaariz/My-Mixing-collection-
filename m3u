@@ -224,6 +224,9 @@ http://cdn.moviemazic.xyz:8083/Feedget/ekattor_nk_19/index.m3u8
 #EXTINF:-1,Ekattor TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/index.m3u8
 
+#EXTINF:-1,Global Tv
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+
 #EXTINF:-1, Independent 
 
 http://cdn.moviemazic.xyz:8083/Feedget/indopendet_nk_33/index.m3u8
@@ -304,6 +307,8 @@ http://97.74.103.44:8089/amrbd/CHANNEL-I/playlist.m3u8
 #EXTINF:-1,Asian tv
 http://tv.dugdugilive.com:8080/0ne$ky23/Asian/index.m3u8
 
+#EXTINF:-1,Ananda Tv
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 
 #EXTINF:-1,ATN Bangla
 http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/index.m3u8
@@ -450,6 +455,9 @@ http://97.74.103.44:8089/amrbd/SATV/playlist.m3u8
 #EXTINF:-1,ISLAMIC TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
+#EXTINF:-1, Peace Tv Bangla 
+
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
 #EXTINF:-1,Sunnah tv 
 
