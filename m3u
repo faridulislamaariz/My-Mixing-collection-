@@ -476,6 +476,10 @@ http://97.74.103.44:8089/load/bbc_news/playlist.m3u8
 #EXTINF:-1, BBC news
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:1, BBC Two
+
+https://a1xs.vip/1000002
+
 #EXTINF:-1,CBS NEWS
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 
@@ -691,6 +695,9 @@ http://cdn.moviemazic.xyz:8083/Feedget/AnimalPlanetHD_12/index.m3u8
 
 http://97.74.103.44:8089/load/animal_planet_hd/playlist.m3u8
 
+#EXTINF:1, BBC One
+
+https://a1xs.vip/1000001
 
 #EXTINF:-1, Discovery 
 
@@ -704,6 +711,10 @@ http://97.74.103.44:8089/load/discovery_history/playlist.m3u8
 
 http://97.74.103.44:8089/load/discovery-sci/playlist.m3u8
 
+#EXTINF:1, Discovery Science
+
+http://110.39.27.47:8001/play/a018/index.m3u8
+
 #EXTINF:-1, History 
 http://97.74.103.44:8089/nimble_live/history/playlist.m3u8
 
@@ -711,12 +722,20 @@ http://97.74.103.44:8089/nimble_live/history/playlist.m3u8
 
 http://cdn.moviemazic.xyz:8083/Feedget/National-Geography/index.m3u8
 
+#EXTINF:1, National Geographic
+
+http://103.229.254.25:7001/play/a038/index.m3u8
+
 #EXTINF:-1,Nat Geo Wild 
 http://97.74.103.44:8089/load/natgeo_wild/playlist.m3u8
 
 
 #EXTINF:-1,Sony BBC Earth 
 http://45.148.145.57/IN_SONYBBCHD/index.m3u8
+
+#EXTINF:1, BBC Earth
+
+https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?playback_start_ts=1763063441&yo.ap=https://lna.tubi.video/prd-yospace/&y
 
 #EXTINF:-1,Tlc HD
 http://97.74.103.44:8089/nimble_live/tlchd/playlist.m3u8
@@ -801,8 +820,16 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywoo
 #EXTINF:-1,9xm
 http://97.74.103.44:8089/load/9xm/playlist.m3u8
 
+#EXTINF:1,9XM
+
+http://103.175.73.12:8080/live/155/155_0.m3u8
+
 #EXTINF:-1,9x jalwa
 http://97.74.103.44:8089/load/9x_jalwa/playlist.m3u8
+
+#EXTINF:1,9X Jalwa
+
+http://103.175.73.12:8080/live/161/161_0.m3u8
 
 
 #EXTINF:-1,Balleballe
@@ -813,42 +840,68 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 
-#EXTINF:1,T-Series
-http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Joo music
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-
 #EXTINF:1,B4U Music
 
 https://cdn-2.pishow.tv/live/415/master.m3u8
 
-#EXTINF:1,Mastiii
+#EXTINF:1, E24
 
-https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:1, Show Box
+http://103.175.73.12:8080/live/159/159_0.m3u8
 
-http://103.175.73.12:8080/live/469/469_0.m3u8
 #EXTINF:1, Hindi Hits
 
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:1, Vision Beats
 
-http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
 
-EXTINF:1,9XM
+#EXTINF:-1,Joo music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-http://103.175.73.12:8080/live/155/155_0.m3u8
 
-#EXTINF:1,9X Jalwa
+#EXTINF:1,Mastiii
 
-http://103.175.73.12:8080/live/161/161_0.m3u8
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
 #EXTINF:1, Music India
 
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
+#EXTINF:1, Show Box
+
+http://103.175.73.12:8080/live/469/469_0.m3u8
+
+
+#EXTINF:1,T-Series
+http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, Vision Beats
+
+http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1,Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8?v=1
+
+#EXTINF:0, ITV 1
+
+http://212.32.241.201:8000/play/a03o
+
+#EXTINF:1, ITV 2
+
+http://212.32.241.201:8000/play/a03k
+
+#EXTINF:1, Channel 4 HD
+
+http://212.32.241.201:8000/play/a002
+#EXTINF:1, Channel 5
+
+http://212.32.241.201:8000/play/a01w
+
+#EXTINF:1, E4
+
+http://212.32.241.201:8000/play/a00b
+
+#EXTINF:1, E4Xtra
+http://212.32.241.201:8000/play/a008
 
 #EXTINF:-1,Ary Digital 
 http://97.74.103.44:8089/load/arydigital/playlist.m3u8
