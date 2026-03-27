@@ -1,0 +1,245 @@
+#EXTM3U
+
+#EXTINF:-1,Tsport Hd
+
+http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
+
+#EXTINF:-1,Gazi Tv
+
+http://cdn.moviemazic.xyz:8083/live-5/index.m3u8
+
+#EXTINF:-1,allsports
+
+http://cdn.moviemazic.xyz:8083/Feedget/allsports_3/index.m3u8
+
+#EXTINF:-1,willow_usa
+
+http://cdn.moviemazic.xyz:8083/Feedget/willow_usa/index.m3u8
+
+
+#EXTINF:-1,EurosportHD
+
+http://cdn.moviemazic.xyz:8083/Feedget/EurosportHD_17/index.m3u8
+
+#EXTINF:-1,TenCricket
+
+http://cdn.moviemazic.xyz:8083/Feedget/TenCricket/index.m3u8
+
+#EXTINF:-1,beinspots_2
+
+http://cdn.moviemazic.xyz:8083/Feedget/beinspots_2/index.m3u8
+
+#EXTINF:-1,SONY-TEN-1
+http://cdn.moviemazic.xyz:8083/SONY-TEN-1/index.m3u8
+
+#EXTINF:-1,SonyTenSports2
+
+http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports2_36/index.m3u8
+
+#EXTINF:-1,SonyTenSports5
+
+http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports5_39/index.m3u8
+
+#EXTINF:-1,Star-Select-Hd-1
+
+http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-1/index.m3u8
+
+#EXTINF:-1,Star-Select-Hd-2
+
+http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-2/index.m3u8
+
+#EXTINF:-1,Star-Sports-1-HD
+
+http://cdn.moviemazic.xyz:8083/Feedget/Star-Sports-1-HD/index.m3u8
+
+#EXTINF:-1,Star-Sports-2-HD
+
+http://cdn.moviemazic.xyz:8083/Feedget/Star-Sports-2-HD/index.m3u8
+
+#EXTINF:-1,PTV SPORTS 
+
+http://cdn.moviemazic.xyz:8083/Feedget/ptv_pk/index.m3u8
+
+#EXTINF:-1,ATN NEWS 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1, channel24 
+
+http://cdn.moviemazic.xyz:8083/channel24/index.m3u8
+
+#EXTINF:-1, CHANNEL 24 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+
+#EXTINF:-1,DBC NEWS 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1, DBC news 
+http://cdn.moviemazic.xyz:8083/DBCNews/index.m3u8
+
+#EXTINF:-1, EKATTOR NEWS 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1,Ekattor tv
+
+http://cdn.moviemazic.xyz:8083/Feedget/ekattor_nk_19/index.m3u8
+
+
+#EXTINF:-1, Independent 
+
+http://cdn.moviemazic.xyz:8083/Feedget/indopendet_nk_33/index.m3u8
+
+
+#EXTINF:-1, INDEPENDENT TV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1,News 24
+
+http://cdn.moviemazic.xyz:8083/Feedget/NEWS24LIVE_23/index.m3u8
+
+#EXTINF:-1,NEWS 24 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+#EXTINF:-1,Somoy News
+
+http://cdn.moviemazic.xyz:8083/SomoyTv/index.m3u8
+
+
+#EXTINF:-1,SOMOY NEWS 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1,STAR NEWS 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
+
+#EXTINF:-1, Channel I
+
+http://cdn.moviemazic.xyz:8083/Feedget/chnnel-i_29/index.m3u8
+
+#EXTINF:-1, CHANNEL I HD 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1,BANGLA VISION 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1,Bangla vision 
+
+http://cdn.moviemazic.xyz:8083/BanglaVision/index.m3u8
+
+#EXTINF:-1,BTV NATIONAL 
+
+http://cdn.moviemazic.xyz:8083/BTV-National/index.m3u8
+
+#EXTINF:-1, BTV NATIONAL 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1, SANGSAD TV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+#EXTINF:-1,Deepto Tv
+
+http://cdn.moviemazic.xyz:8083/DeeptoTV/index.m3u8
+
+#EXTINF:-1,DEEPTO TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1,Jamuna Tv
+
+http://cdn.moviemazic.xyz:8083/Feedget/JAMUNATV_27/index.m3u8
+
+#EXTINF:-1, JAMUNA NEWS 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1,ETV
+
+http://cdn.moviemazic.xyz:8083/ETV/index.m3u8
+
+#EXTINF:-1,ISLAMIC TV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+
+#EXTINF:-1, MAASRANGA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1, NTV HD 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1,NAGORIK TV
+http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8
+
+#EXTINF:-1, SA TV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
+
+#EXTINF:-1,Zee Bangla
+http://cdn.moviemazic.xyz:8083/Feedget/ZeeBangla_8/index.m3u8
+
+#EXTINF:-1,  AL JAZEERA 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+
+#EXTINF:-1,Star Jalsha Hd
+
+http://cdn.moviemazic.xyz:8083/StarJalshaHD/index.m3u8
+
+#EXTINF:-1,Star Movie Hd
+http://cdn.moviemazic.xyz:8083/Feedget/Star-Movies/index.m3u8
+
+#EXTINF:-1,Star Gold 
+http://cdn.moviemazic.xyz:8083/Star-Gold/index.m3u8
+
+#EXTINF:-1,Sony Tv
+
+http://cdn.moviemazic.xyz:8083/Feedget/SonyEntertainmentTelevisionHD_9/index.m3u8
+
+#EXTINF:-1,Sony Aath
+http://cdn.moviemazic.xyz:8083/Feedget/SonyAath_7/index.m3u8
+
+#EXTINF:-1,Sony max
+http://cdn.moviemazic.xyz:8083/Feedget/SonyMAX_37/index.m3u8
+
+#EXTINF:-1,Sony Sab Hd
+
+http://cdn.moviemazic.xyz:8083/Feedget/SonySABHD_10/index.m3u8
+
+#EXTINF:-1,& Picture HD
+
+http://cdn.moviemazic.xyz:8083/andpictureHD/index.m3u8
+
+
+#EXTINF:-1,ZEE CINEMA HD
+
+http://cdn.moviemazic.xyz:8083/Feedget/ZeeCinemaHD_38/index.m3u8
+
+
+#EXTINF:-1,Cartoon Network 
+
+http://cdn.moviemazic.xyz:8083/Feedget/CartoonNetwork_6/index.m3u8
+
+
+#EXTINF:-1,POGO 
+
+http://cdn.moviemazic.xyz:8083/Feedget/POGO_5/index.m3u8
+
+#EXTINF:-1, Animal Planet HD
+
+http://cdn.moviemazic.xyz:8083/Feedget/AnimalPlanetHD_12/index.m3u8
+
+#EXTINF:-1, Discovery 
+
+http://cdn.moviemazic.xyz:8083/Feedget/Discovery/index.m3u8
+
+
+#EXTINF:-1,National Geographic 
+
+http://cdn.moviemazic.xyz:8083/Feedget/National-Geography/index.m3u8
+
+
+
+
+
+
+
+
+
+
