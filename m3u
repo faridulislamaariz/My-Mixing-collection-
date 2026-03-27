@@ -173,6 +173,10 @@ http://10.16.100.202:8080/hls/PtvSportsHD.m3u8
 #EXTINF:-1,PTV SportsHD
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
 
+#EXTINF:-1,Real Madrid 
+
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
 
 #EXTINF:-1,ATN NEWS 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
@@ -463,6 +467,9 @@ http://97.74.103.44:8089/amrbd/SATV/playlist.m3u8
 #EXTINF:-1,ISLAMIC TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
+#EXTINF:-1,Madani Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
 #EXTINF:-1, Peace Tv Bangla 
 
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
@@ -489,6 +496,8 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1,Arirang
 http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
+#EXTINF:-1,Arirang
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
 
 #EXTINF:-1,Arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/arirang_1gch.smil/playlist.m3u8
@@ -512,6 +521,9 @@ https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/m
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
 #EXTINF:-1,Cgtn
 https://0472.org/hls/cgtn.m3u8
 
@@ -526,7 +538,12 @@ http://97.74.103.44:8089/load/cnn-hd/playlist.m3u8
 
 #EXTINF:-1,Cgtn Documentary 
 
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+
+
+#EXTINF:-1,CGTN
 https://0472.org/hls/cgtn.m3u8
+
 
 
 #EXTINF:-1,CGTN
@@ -576,6 +593,9 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1,Press Tv
 https://live.presstv.ir/hls/presstv.m3u8
 
+#EXTINF:-1,Hispan tv
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+
 #EXTINF:-1, Reuters Tv
 https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 
@@ -602,6 +622,9 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1,Talk tv
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+
+#EXTINF:-1, Teledifusão de Macau
+https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 
 #EXTINF:-1,Cnn news 18 
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
@@ -794,6 +817,14 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 
 #EXTINF:-1,Wild earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+#EXTINF:-1, Australia Dog
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+
+#EXTINF:-1, Fashion tv
+
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+
 
 #EXTINF:-1,& Picture HD
 
@@ -991,7 +1022,8 @@ https://cdn.abra.stream/M-World/index.fmp4.m3u8
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
 
-
+#EXTINF:-1, unknown 
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 
 
 
