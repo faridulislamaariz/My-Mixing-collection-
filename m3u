@@ -806,6 +806,9 @@ http://45.148.145.57/IN_SONYBBCHD/index.m3u8
 
 https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?playback_start_ts=1763063441&yo.ap=https://lna.tubi.video/prd-yospace/&y
 
+#EXTINF:-1,Nasa tv 
+https://endpnt.com/hls/nasa4k/playlist.m3u8
+
 #EXTINF:-1,Red bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
