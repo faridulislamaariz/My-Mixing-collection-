@@ -220,6 +220,9 @@ http://97.74.103.44:8089/amrbd/DBC-NEWS/playlist.m3u8
 #EXTINF:-1,Desh Tv Hd 
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 
+#EXTINF:-1,Desh Tv Hd 
+http://103.229.254.25:7001/play/a05s/index.m3u8
+
 #EXTINF:-1, EKATTOR NEWS 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
@@ -230,6 +233,11 @@ http://cdn.moviemazic.xyz:8083/Feedget/ekattor_nk_19/index.m3u8
 
 #EXTINF:-1,Ekattor TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/index.m3u8
+
+#EXTINF:-1,Ekhon Tv
+http://103.229.254.25:7001/play/a060/index.m3u8
+
+
 
 #EXTINF:-1, Independent 
 
@@ -246,6 +254,10 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Independent/index.m3u8
 
 #EXTINF:-1,Independent TV
 http://97.74.103.44:8089/amrbd/INDPENDENT-TV/playlist.m3u8
+
+#EXTINF:-1,Jago News
+
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
 #EXTINF:-1,Jamuna Tv
 
@@ -359,6 +371,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1, Channel 9 
 http://97.74.103.44:8089/amrbd/CHANNEL-9/playlist.m3u8
 
+#EXTINF:-1, Channel S
+
+http://103.229.254.25:7001/play/a060/index.m3u8
+
 
 #EXTINF:-1,Deepto Tv
 
@@ -380,6 +396,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/index.m3u8
 #EXTINF:-1,Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
+#EXTINF:-1, Green Tv
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 
 
 #EXTINF:-1,ETV
@@ -426,6 +444,9 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1,Mohona Tv
 http://97.74.103.44:8089/amrbd/MOHONA-TV/playlist.m3u8
 
+#EXTINF:-1,Mohona Tv
+http://103.229.254.25:7001/play/a05t/index.m3u8
+
 #EXTINF:-1, Movie Bangla 
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
@@ -450,6 +471,9 @@ http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8
 #EXTINF:-1,NAGORIK Tv
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 
+#EXTINF:-1, Nexus HD 
+http://103.229.254.25:7001/play/a05m/index.m3u8
+
 #EXTINF:-1,RTV HD
 http://97.74.103.44:8089/amrbd/RTV/playlist.m3u8
 
@@ -460,6 +484,9 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1, SA TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
+#EXTINF:-1,SRK TV 
+
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1, SA TV 
 http://97.74.103.44:8089/amrbd/SATV/playlist.m3u8
@@ -474,7 +501,12 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
+#EXTINF:-1, Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1, Peace Tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
 #EXTINF:-1,Sunnah tv 
 
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
@@ -525,8 +557,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1,Cgtn
-https://0472.org/hls/cgtn.m3u8
 
 #EXTINF:-1,Cnn News
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
@@ -541,6 +571,8 @@ http://97.74.103.44:8089/load/cnn-hd/playlist.m3u8
 
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
+#EXTINF:-1,Cgtn
+https://0472.org/hls/cgtn.m3u8
 
 #EXTINF:-1,CGTN
 https://0472.org/hls/cgtn.m3u8
@@ -808,6 +840,7 @@ http://45.148.145.57/IN_SONYBBCHD/index.m3u8
 https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?playback_start_ts=1763063441&yo.ap=https://lna.tubi.video/prd-yospace/&y
 
 #EXTINF:-1,Nasa tv 
+
 https://endpnt.com/hls/nasa4k/playlist.m3u8
 
 #EXTINF:-1,Red bull
