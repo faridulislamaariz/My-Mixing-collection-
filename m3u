@@ -67,9 +67,6 @@ http://10.16.100.202:8080/hls/asports.m3u8
 http://10.16.100.206:8080/hls/asports.m3u8
 
 
-#EXTINF:-1,A sport Hd
-http://97.74.103.44:8888/load/asports/playlist.m3u8
-
 #EXTINF:-1,Astro Cricket
 http://97.74.103.44:8089/load/astrocricket/playlist.m3u8
 
