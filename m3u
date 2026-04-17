@@ -35,10 +35,6 @@ http://97.74.103.44:8089/amrbd/LIVE-SPORTS/playlist.m3u8
 http://97.74.103.44:8089/amrbd/T-SPORTS/playlist.m3u8
 
 
-#EXTINF:-1,T Sports HD
-
-https://stream.imotv.net/stream/XSoD9P4R6xfZ-kyV2ESvPQ/1776347929/T-SPORTS-HD/index.m3u8
-
 #EXTINF:-1,allsports
 
 http://cdn.moviemazic.xyz:8083/Feedget/allsports_3/index.m3u8
@@ -83,10 +79,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/index.m3u8
 #EXTINF:-1,Sony Ten 1
 http://97.74.103.44:8089/amrbd/SONY-TEN-1/playlist.m3u8
 
-
-#EXTINF:-1,Sony Ten 1
-
-https://stream.imotv.net/stream/AGkATvC0Qkc0anc_Vk5u2Q/1776348085/SONY-SPORTS-1HD/index.m3u8
 
 
 #EXTINF:-1,SonyTenSports2
@@ -157,9 +149,6 @@ http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 http://97.74.103.44:8089/amrbd/STAR-SPORTS-1/playlist.m3u8
 
 
-#EXTINF:-1,Star-Sports-1-HD
-
-https://stream.imotv.net/stream/73eS_3MfV9BBr1CP9CupDg/1776347786/STAR-SPORTS-1-HD/index.m3u8
 
 #EXTINF:-1,Star Sports 1 Hindi
 
@@ -192,18 +181,12 @@ http://10.16.100.202:8080/hls/PtvSportsHD.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
 
 
-#EXTINF:-1,PTV SportsHD
-
-https://stream.imotv.net/stream/4tIt4VHLUmLteaWQpZM9WQ/1776348054/PTV-SPORTS-HD/index.m3u8
-
 
 #EXTINF:-1,Real Madrid 
 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
-#EXTINF:-1,RED BULL 
 
-https://stream.imotv.net/stream/Sss4POlUHfbyPXYWexpT0g/1776348008/RED-BULL-TV/index.m3u8
 
 
 #EXTINF:-1,ATN NEWS 
@@ -459,9 +442,6 @@ http://97.74.103.44:8089/amrbd/GTV/playlist.m3u8
 
 
 
-#EXTINF:-1,Gazi Tv
-
-https://stream.imotv.net/stream/TgVJzsrAwcWEgTx-cYP2vA/1776348125/GAZI-TV-HD/index.m3u8
 
 
 #EXTINF:-1,Global Tv
