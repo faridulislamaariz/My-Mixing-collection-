@@ -365,6 +365,9 @@ http://97.74.103.44:8089/amrbd/BANGLA-TV/playlist.m3u8
 #EXTINF:-1,Boishakhi Tv
 http://97.74.103.44:8089/amrbd/BOISHAKI-TV/playlist.m3u8
 
+#EXTINF:-1,BOISHAKHI TV
+http://97.74.103.44:8089/amrbd/RTV/playlist.m3u8
+
 #EXTINF:-1,BTV NATIONAL 
 
 http://cdn.moviemazic.xyz:8083/BTV-National/index.m3u8
@@ -488,8 +491,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 #EXTINF:-1, Nexus HD 
 http://103.229.254.25:7001/play/a05m/index.m3u8
 
-#EXTINF:-1,RTV HD
-http://97.74.103.44:8089/amrbd/RTV/playlist.m3u8
+
 
 
 #EXTINF:-1,RTV HD
