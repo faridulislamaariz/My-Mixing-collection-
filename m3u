@@ -511,6 +511,12 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1, SA TV 
 http://97.74.103.44:8089/amrbd/SATV/playlist.m3u8
 
+
+
+
+
+
+
 #EXTINF:-1,ISLAMIC TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
@@ -530,6 +536,12 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1,Sunnah tv 
 
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
+
+
+
+
+
+
 
 
 #EXTINF:-1,  AL JAZEERA 
@@ -693,6 +705,9 @@ https://d2dsoyvkr33m05.cloudfront.net/index_2.m3u8
 
 
 
+
+
+
 #EXTINF:-1,Bangla Plus 
 http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/index.m3u8
 
@@ -724,6 +739,10 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1,Kolkata Movie 
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/index.m3u8
 
+
+#EXTINF:-1,Sananda TV 
+
+https://live.sanandatelevision.in/sananda/index.m3u8
 
 #EXTINF:-1,Sony Aath
 http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/index.m3u8
