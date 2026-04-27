@@ -55,6 +55,10 @@ http://97.74.103.44:8089/amrbd/EURO-SPORTS/playlist.m3u8
 
 http://cdn.moviemazic.xyz:8083/Feedget/TenCricket/index.m3u8
 
+
+#EXTINF:-1,Ten Cricket
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/514856.ts
+
 #EXTINF:-1,beinspots_2
 
 http://cdn.moviemazic.xyz:8083/Feedget/beinspots_2/index.m3u8
@@ -118,6 +122,11 @@ http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-1/index.m3u8
 #EXTINF:-1,Star-Select-Hd-1
 http://97.74.103.44:8089/amrbd/SPL-1/playlist.m3u8
 
+
+#EXTINF:-1,Star-Select-Hd-1
+
+http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Star-Select-Hd-2
 
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-2/index.m3u8
@@ -125,6 +134,10 @@ http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-2/index.m3u8
 #EXTINF:-1,Star-Select-Hd-2
 http://97.74.103.44:8089/amrbd/SPL-2/playlist.m3u8
 
+
+#EXTINF:-1,Star-Select-Hd-2
+
+http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Star-Sports-1-HD
 
@@ -140,14 +153,20 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/index.m3u8
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Sports-1-HD/index.m3u8
 
 #EXTINF:-1,Star-Sports-1-HD
+
 http://172.17.50.112:84/ant1001/video.m3u8
 
 #EXTINF:-1,Star-Sports-1-HD
+
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Star-Sports-1-HD
+
 http://97.74.103.44:8089/amrbd/STAR-SPORTS-1/playlist.m3u8
 
+#EXTINF:-1,Star-Sports-1-HD
+
+http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
 
 
 #EXTINF:-1,Star Sports 1 Hindi
@@ -164,8 +183,15 @@ http://97.74.103.44:8089/amrbd/STAR-SPORTS-2/playlist.m3u8
 
 #EXTINF:-1,Star-Sports-2-HD
 
-https://stream.imotv.net/stream/TqWN7q62KuG-S5CeWbuvGQ/1776347885/STAR-SPORTS-2-HD/index.m3u8
+http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
 
+#EXTINF:-1,Star-Sports-3
+
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/1080.ts
+
+#EXTINF:-1,Super Sports cricket 
+
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158442.ts
 
 #EXTINF:-1,PTV SPORTS 
 
@@ -340,7 +366,13 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
 http://97.74.103.44:8089/amrbd/CHANNEL-I/playlist.m3u8
 
 #EXTINF:-1,Asian tv
+
 http://tv.dugdugilive.com:8080/0ne$ky23/Asian/index.m3u8
+
+
+#EXTINF:-1,Asian tv
+
+http://103.229.254.25:7001/play/a063/index.m3u8
 
 #EXTINF:-1,Ananda Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
@@ -436,6 +468,10 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/index.m3u8
 #EXTINF:-1,Deshi Tv
 
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1,Duranto Tv
+
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Green Tv
 
@@ -537,8 +573,9 @@ http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 
 http://103.229.254.25:7001/play/a05m/index.m3u8
 
+#EXTINF:-1, Rajdhani Tv
 
-
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1,RTV HD
 
@@ -582,10 +619,19 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1, Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
+
+#EXTINF:-1,Saudi Quran
+
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+
 #EXTINF:-1,Sunnah tv 
 
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 
+
+#EXTINF:-1,Sunnah tv
+
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 
 
@@ -1046,6 +1092,9 @@ http://103.175.73.12:8080/live/161/161_0.m3u8
 #EXTINF:-1,Balleballe
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Bengali Beats
+
+https://tplay.live/originals/bengali-beats/index.m3u8
 
 #EXTINF:1, Bollywood 90's Music
 
@@ -1080,6 +1129,9 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 
 http://103.175.73.12:8080/live/469/469_0.m3u8
 
+#EXTINF:-1, Sangeet Bangla 
+
+https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
 
 #EXTINF:1,T-Series
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
