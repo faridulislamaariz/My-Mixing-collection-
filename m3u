@@ -409,7 +409,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/index.m3u8
 
 http://97.74.103.44:8089/amrbd/BANGLA-TV/playlist.m3u8
 
-#EXTINF:-1,Bijou TV
+#EXTINF:-1,Bijoy TV
 
 http://103.229.254.25:7001/play/a066/index.m3u8
 
@@ -434,9 +434,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 http://tv.dugdugilive.com:8080/0ne$ky23/BTV/index.m3u8
 
-#EXTINF:-1, SANGSAD TV 
-
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
 #EXTINF:-1, Channel 9 
 
@@ -636,6 +633,9 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 
+#EXTINF:-1,Sunnah tv 
+
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
 #EXTINF:-1,Sunnah tv
 
