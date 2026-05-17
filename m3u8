@@ -1030,10 +1030,10 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Movies/index.m3u8
 
 
-#EXTINF:-1,Star Movie Hd
+#EXTINF:-1, Movies Now Hd
 http://172.17.50.112:84/ant1006/video.m3u8
 
-#EXTINF:-1,Star Movie Hd
+#EXTINF:-1, Movie Now Hd
 http://172.17.50.112:84/ant1006/tracks-v1a1/mono.m3u8
 
 
@@ -1055,7 +1055,7 @@ http://97.74.103.44:8089/amrbd/SONY-ENT/playlist.m3u8
 http://cdn.moviemazic.xyz:8083/Feedget/SonyMAX_37/index.m3u8
 
 
-#EXTINF:-1,Sony Sab Hd
+#EXTINF:-1,Sony Pix Hd
 
 http://cdn.moviemazic.xyz:8083/Feedget/SonySABHD_10/index.m3u8
 
@@ -1142,8 +1142,6 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 https://tplay.live/originals/bengali-beats/index.m3u8
 
 
-#EXTINF:1, Bollywood 90's Music
-https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 
 
 #EXTINF:1,B4U Music
@@ -1177,8 +1175,6 @@ http://103.175.73.12:8080/live/469/469_0.m3u8
 https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
 
 
-#EXTINF:1,T-Series
-http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:1, Vision Beats
@@ -1189,27 +1185,7 @@ http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8?v=1
 
 
-#EXTINF:0, ITV 1
-http://212.32.241.201:8000/play/a03o
 
-
-#EXTINF:1, ITV 2
-http://212.32.241.201:8000/play/a03k
-
-
-#EXTINF:1, Channel 4 HD
-http://212.32.241.201:8000/play/a002
-
-#EXTINF:1, Channel 5
-http://212.32.241.201:8000/play/a01w
-
-
-#EXTINF:1, E4
-http://212.32.241.201:8000/play/a00b
-
-
-#EXTINF:1, E4Xtra
-http://212.32.241.201:8000/play/a008
 
 
 
