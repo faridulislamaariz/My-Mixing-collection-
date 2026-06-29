@@ -35,8 +35,16 @@ http://172.17.50.112:84/ant1001/video.m3u8
 #EXTINF:-1,Btv Hd
 http://172.17.50.112:84/ant1003/video.m3u8
 
+#EXTINF:-1,Btv Hd
+http://cdn.moviemazic.xyz:8083/btv/index.m3u8
+
 #EXTINF:-1,Tsport Hd
 http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
+
+#EXTINF:-1,Tsport Hd
+http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
+
+
 
 #EXTINF:-1,T Sports HD
 http://10.10.10.2/live/fnf001/index.m3u8
