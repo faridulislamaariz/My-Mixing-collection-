@@ -338,6 +338,9 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Ekhon Tv
 http://97.74.103.44:8089/amrbd/EKHON-TV/playlist.m3u8
 
+#EXTINF:-1,Ekhon Tv
+https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
+
 #EXTINF:-1, Independent 
 http://cdn.moviemazic.xyz:8083/Feedget/indopendet_nk_33/index.m3u8
 
