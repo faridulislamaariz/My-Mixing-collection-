@@ -855,6 +855,9 @@ http://97.74.103.44:8089/amrbd/SONY-ART/playlist.m3u8
 #EXTINF:-1,Sony Aath
 http://172.20.21.22/live/skyfeed1016/index.m3u8
 
+#EXTINF:-1,Sony Aath
+https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8
+
 #EXTINF:-1,Star Jalsha Hd
 http://cdn.moviemazic.xyz:8083/StarJalshaHD/index.m3u8
 
@@ -888,7 +891,8 @@ http://97.74.103.44:8089/load/zee_bangla_HD/playlist.m3u8
 #EXTINF:-1,Zee Bangla cinema 
 http://97.74.103.44:8089/amrbd/ZEE-BANGLA-CINEMA/playlist.m3u8
 
-
+#EXTINF:-1,Zee Bangla cinema 
+https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8
 
 
 
@@ -1034,11 +1038,20 @@ http://cdn.moviemazic.xyz:8083/andpictureHD/index.m3u8
 #EXTINF:-1,& Picture HD
 http://97.74.103.44:8089/amrbd/AND-PICTURE/playlist.m3u8
 
+#EXTINF:-1,& Picture HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+
 #EXTINF:-1,& Flix Hd 
 http://97.74.103.44:8089/nimble_live/andflix/playlist.m3u8
 
 #EXTINF:-1,& Prive 
 http://97.74.103.44:8089/nimble_live/andprive/playlist.m3u8
+
+#EXTINF:-1,& TV 
+https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
+
+#EXTINF:-1,B4U MOVIE 
+https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
 
 #EXTINF:-1,Goldmines
 https://cdn-2.pishow.tv/live/1459/1459_2.m3u8
@@ -1067,11 +1080,33 @@ http://cdn.moviemazic.xyz:8083/Feedget/SonyEntertainmentTelevisionHD_9/index.m3u
 #EXTINF:-1,Sony Tv
 http://97.74.103.44:8089/amrbd/SONY-ENT/playlist.m3u8
 
+#EXTINF:-1,Sony Tv 
+https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
+
+#EXTINF:-1,Sony TvHD 
+https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
+
+
 #EXTINF:-1,Sony max
 http://cdn.moviemazic.xyz:8083/Feedget/SonyMAX_37/index.m3u8
 
+#EXTINF:-1,Sony max
+https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
+
+#EXTINF:-1,Sony max HD 
+https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+
+#EXTINF:-1,Sony max 2 
+https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
+
 #EXTINF:-1,Sony Pix Hd
 http://cdn.moviemazic.xyz:8083/Feedget/SonySABHD_10/index.m3u8
+
+#EXTINF:-1,Sony SAB
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
+#EXTINF:-1,ZEE BOLLYWOOD 
+https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
 
 #EXTINF:-1,ZEE CINEMA HD
 http://cdn.moviemazic.xyz:8083/Feedget/ZeeCinemaHD_38/index.m3u8
@@ -1082,6 +1117,11 @@ http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/index.m3u8
 #EXTINF:-1,Zee Cinema HD
 http://97.74.103.44:8089/amrbd/ZEE-CINEMA/playlist.m3u8
 
+#EXTINF:-1,Zee Cinema HD
+https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
+
+#EXTINF:-1,Zee TV 
+https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
 
 #EXTINF:-1,Movies Action 
 https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
@@ -1233,6 +1273,9 @@ https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66
 
 #EXTINF:1,HUM TV HD
 https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
+
+#EXTINF:1,HUM TV HD
+https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 
 #EXTINF:-1,M news Hd
 https://cdn.abra.stream/M-World/index.fmp4.m3u8
