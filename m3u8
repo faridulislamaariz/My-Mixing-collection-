@@ -106,6 +106,9 @@ http://cdn.moviemazic.xyz:8083/Feedget/EurosportHD_17/index.m3u8
 #EXTINF:-1,EurosportHD
 http://97.74.103.44:8089/amrbd/EURO-SPORTS/playlist.m3u8
 
+#EXTINF:-1,EurosportHD
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+
 #EXTINF:-1,TenCricket
 http://cdn.moviemazic.xyz:8083/Feedget/TenCricket/index.m3u8
 
@@ -136,6 +139,9 @@ http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/index.m3u8
 #EXTINF:-1,Sony Ten 1
 http://97.74.103.44:8089/amrbd/SONY-TEN-1/playlist.m3u8
 
+#EXTINF:-1,Sony Ten 1HD 
+https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
+
 #EXTINF:-1,SonyTenSports2
 http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports2_36/index.m3u8
 
@@ -148,6 +154,8 @@ http://97.74.103.44:8089/amrbd/SONY-TEN-2/playlist.m3u8
 #EXTINF:-1,Sony Ten 2
 http://172.20.21.22/live/skyfeed1008/index.m3u8
 
+#EXTINF:-1,Sony Ten 2
+https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 
 #EXTINF:-1,Sony Ten 3 HD
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/index.m3u8
@@ -167,6 +175,9 @@ http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SonyTenSports5
 http://97.74.103.44:8089/load/sony_six/playlist.m3u8
 
+#EXTINF:-1,SonyTenSports5
+https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
+
 #EXTINF:-1,Star-Select-Hd-1
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-1/index.m3u8
 
@@ -179,6 +190,9 @@ http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star-Select-Hd-1
 http://10.10.10.2/live/fnf003/index.m3u8
 
+#EXTINF:-1,Star-Select-Hd-1
+https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
+
 #EXTINF:-1,Star-Select-Hd-2
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-2/index.m3u8
 
@@ -187,6 +201,9 @@ http://97.74.103.44:8089/amrbd/SPL-2/playlist.m3u8
 
 #EXTINF:-1,Star-Select-Hd-2
 http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star-Select-Hd-2
+https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Star-Sports-1-HD
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/index.m3u8
@@ -212,6 +229,9 @@ http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
 
 #EXTINF:-1,Star-Sports-1-HD
 http://10.10.10.2/live/fnf005/index.m3u8
+
+#EXTINF:-1,Star-Sports-1-HD
+https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Star Sports 1 Hindi
 http://41.205.93.154/STARSPORTS1/index.m3u8
@@ -799,6 +819,10 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,Zee News 
 https://d2dsoyvkr33m05.cloudfront.net/index_2.m3u8
 
+#EXTINF:-1,Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+
+
 
 
 
@@ -1193,6 +1217,9 @@ https://tplay.live/originals/bengali-beats/index.m3u8
 
 #EXTINF:1,B4U Music
 https://cdn-2.pishow.tv/live/415/master.m3u8
+
+#EXTINF:1,B4U Music
+https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
 
 #EXTINF:1, E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
