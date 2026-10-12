@@ -989,6 +989,9 @@ http://cdn.moviemazic.xyz:8083/Feedget/AnimalPlanetHD_12/index.m3u8
 #EXTINF:-1, Animal Planet HD
 http://97.74.103.44:8089/load/animal_planet_hd/playlist.m3u8
 
+#EXTINF:-1, Animal Planet HD
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
+
 #EXTINF:1, BBC One
 https://a1xs.vip/1000001
 
@@ -997,6 +1000,9 @@ https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
 
 #EXTINF:-1, Discovery 
 http://cdn.moviemazic.xyz:8083/Feedget/Discovery/index.m3u8
+
+#EXTINF:-1, Discovery HD 
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
 #EXTINF:-1, Discovery History 
 http://97.74.103.44:8089/load/discovery_history/playlist.m3u8
@@ -1010,8 +1016,14 @@ http://110.39.27.47:8001/play/a018/index.m3u8
 #EXTINF:-1, History 
 http://97.74.103.44:8089/nimble_live/history/playlist.m3u8
 
+#EXTINF:-1, History 
+https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/master.m3u8
+
 #EXTINF:-1,Luxel HD 
 https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
+
+#EXTINF:-1,Love Natural HD 
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,Motor vision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
@@ -1031,6 +1043,9 @@ http://45.148.145.57/IN_SONYBBCHD/index.m3u8
 #EXTINF:1, BBC Earth
 https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?playback_start_ts=1763063441&yo.ap=https://lna.tubi.video/prd-yospace/&y
 
+#EXTINF:1, BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+
 #EXTINF:-1,Nasa tv 
 https://endpnt.com/hls/nasa4k/playlist.m3u8
 
@@ -1042,6 +1057,9 @@ http://97.74.103.44:8089/nimble_live/tlchd/playlist.m3u8
 
 #EXTINF:-1,Travel xp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:-1,Travel xp 
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 
 #EXTINF:-1,Wild earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
@@ -1267,6 +1285,7 @@ https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695
 
 #EXTINF:-1,DISCOVERY PAKISTAN
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+
 
 #EXTINF:-1,DUNYA NEWS
 https://imob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
