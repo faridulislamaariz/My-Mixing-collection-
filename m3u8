@@ -296,8 +296,14 @@ http://97.74.103.44:8089/load/channel_24/playlist.m3u8
 #EXTINF:-1,Channel 24
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/index.m3u8
 
+#EXTINF:-1,Channel 24
+https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
+
 #EXTINF:-1,Channel ONE NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Channel ONE NEWS
+https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8
 
 #EXTINF:-1,DBC NEWS 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
@@ -341,6 +347,9 @@ http://97.74.103.44:8089/amrbd/EKHON-TV/playlist.m3u8
 #EXTINF:-1,Ekhon Tv
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 
+#EXTINF:-1,Ekhon Tv
+https://drk6xq0vhn.gpcdn.net/live/ekhon_tv_abr/index.m3u8
+
 #EXTINF:-1, Independent 
 http://cdn.moviemazic.xyz:8083/Feedget/indopendet_nk_33/index.m3u8
 
@@ -352,6 +361,9 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Independent/index.m3u8
 
 #EXTINF:-1,Independent TV
 http://97.74.103.44:8089/amrbd/INDPENDENT-TV/playlist.m3u8
+
+#EXTINF:-1,Independent TV
+https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/index.m3u8
 
 #EXTINF:-1,Jago News
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
@@ -394,6 +406,9 @@ http://97.74.103.44:8089/amrbd/SOMOY-NEWS/playlist.m3u8
 
 #EXTINF:-1,Somoy TV
 http://172.20.21.22/live/skyfeed1004/index.m3u8
+
+#EXTINF:-1,Somoy TV
+https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8
 
 #EXTINF:-1,STAR NEWS 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
@@ -445,6 +460,9 @@ http://97.74.103.44:8089/amrbd/BANGLA-TV/playlist.m3u8
 
 #EXTINF:-1,Bijoy TV
 http://103.229.254.25:7001/play/a066/index.m3u8
+
+#EXTINF:-1,Bijoy TV
+https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
 
 #EXTINF:-1,Boishakhi Tv
 http://97.74.103.44:8089/amrbd/BOISHAKI-TV/playlist.m3u8
@@ -560,11 +578,17 @@ http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 #EXTINF:-1,NAGORIK Tv
 http://172.20.21.22/live/skyfeed1003/index.m3u8
 
+#EXTINF:-1,NAGORIK Tv
+https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Nexus HD 
 http://103.229.254.25:7001/play/a05m/index.m3u8
 
 #EXTINF:-1, Rajdhani Tv
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1, Rajdhani Tv
+https://drk6xq0vhn.gpcdn.net/live/rajdhani_tv/index.m3u8
 
 #EXTINF:-1,RTV HD
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
@@ -580,6 +604,9 @@ http://97.74.103.44:8089/amrbd/SATV/playlist.m3u8
 
 #EXTINF:-1,SRK TV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+#EXTINF:-1,SRK TV 
+https://srktv.net/srktvhls/cdnlive_srktv.m3u8
 
 
 
