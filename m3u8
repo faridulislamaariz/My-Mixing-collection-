@@ -762,11 +762,15 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1,INDIA TODAY
 http://97.74.103.44:8089/load/india_today/playlist.m3u8
 
+#EXTINF:-1,INDIA TODAY
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
 #EXTINF:-1,ND tv
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
 #EXTINF:-1,ND tv
 http://97.74.103.44:8089/load/NDTV/playlist.m3u8
+
 
 #EXTINF:-1,News Max
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8 
