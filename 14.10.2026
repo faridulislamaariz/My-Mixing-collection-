@@ -604,6 +604,9 @@ https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Nexus HD 
 http://103.229.254.25:7001/play/a05m/index.m3u8
 
+#EXTINF:-1, Nexus HD
+https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
+
 #EXTINF:-1, Rajdhani Tv
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
