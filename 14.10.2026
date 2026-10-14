@@ -271,17 +271,7 @@ http://10.10.10.2/live/fnf006/index.m3u8
 #EXTINF:-1,Real Madrid 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
-#EXTINF:-1,Flash Guys 
-https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
 
-#EXTINF:-1,Sports Legends 
-https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
-
-#EXTINF:-1,Sport Range 
-https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
-
-#EXTINF:-1,Thunder 
-https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
 
 
 
@@ -391,8 +381,7 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1,Jamuna Tv
 http://cdn.moviemazic.xyz:8083/Feedget/JAMUNATV_27/index.m3u8
 
-#EXTINF:-1, JAMUNA NEWS 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
 
 #EXTINF:-1,Jamuna TV
 http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/index.m3u8
