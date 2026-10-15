@@ -271,6 +271,9 @@ http://172.16.200.205:8088/106/index.m3u8
 #EXTINF:-1,Global Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8|Referer=https://stati
 
+#EXTINF:-1,Global Tv
+https://stream.ottplus.live/live/global_tv_abr/playlist.m3u8
+
 #EXTINF:-1,Maasranga Tv HD 
 http://cdn.moviemazic.xyz:8083/Maasranga/index.m3u8
 
