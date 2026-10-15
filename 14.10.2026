@@ -235,6 +235,9 @@ http://cdn.moviemazic.xyz:8083/BTV-National/index.m3u8
 #EXTINF:-1,Channel 9 HD
 http://cdn.moviemazic.xyz:8083/Channel9/index.m3u8
 
+#EXTINF:-1,Channel 9 HD
+https://box.bbaria.net/Channel9/tracks-v1a1/index.m3u8
+
 #EXTINF:-1, Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 
@@ -258,6 +261,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1, Green Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
+
+
+#EXTINF:-1,ENTER TEN
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,ETV
 http://cdn.moviemazic.xyz:8083/ETV/index.m3u8
@@ -297,6 +304,9 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1, Movie Bangla 
 http://alvetv.com/mbtv/8080/index.m3u8
+
+#EXTINF:-1,MY TV HD
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
 #EXTINF:-1,NAGORIK TV
 http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8
@@ -510,6 +520,7 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.
 http://172.16.200.205:8088/304/index.m3u8
 
 #EXTINF:-1,Colors Bangla Cinema
+http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
 
 #EXTINF:-1,DD BANGLA 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
@@ -526,6 +537,9 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1,Khushboo Bangla
 https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
 
+#EXTINF:-1, KOLKATA TV
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+
 #EXTINF:-1,RUPASI BANGLA 
 https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8
 
@@ -537,6 +551,9 @@ http://172.16.200.205:8088/702/index.m3u8
 
 #EXTINF:-1,Sananda TV 
 https://live.sanandatelevision.in/sananda/index.m3u8
+
+#EXTINF:-1,Star bangla
+http://103.151.60.162:2122/play/a0f5/index.m3u8
 
 #EXTINF:-1,Sony Aath
 http://cdn.moviemazic.xyz:8083/SonyAath/index.m3u8
@@ -559,6 +576,9 @@ http://cdn.moviemazic.xyz:8083/StarJalshaMovies/index.m3u8
 
 #EXTINF:-1,JALSA MOVIES HD
 http://172.16.200.205:8088/303/index.m3u8
+
+#EXTINF:-1,TARA TV
+https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,U Bangla
 https://stream.ottlive.co.in/ubangla/index.m3u8
