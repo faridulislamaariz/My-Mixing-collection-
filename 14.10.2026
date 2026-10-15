@@ -514,6 +514,9 @@ https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 #EXTINF:-1,Delicious 
 
 #EXTINF:-1, Discovery HD 
+http://cdn.moviemazic.xyz:8083/Discovery/index.m3u8
+
+#EXTINF:-1, Discovery HD 
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
 #EXTINF:-1, Discovery History 
@@ -531,6 +534,7 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1,Motor vision
 
 #EXTINF:-1,National Geographic 
+http://cdn.moviemazic.xyz:8083/NationalGeographic/index.m3u8
 
 #EXTINF:-1,Nat Geo Wild 
 
@@ -545,6 +549,7 @@ https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?p
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1,Tlc HD
+http://cdn.moviemazic.xyz:8083/TLCHD/index.m3u8
 
 #EXTINF:-1,Travel xp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
