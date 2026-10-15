@@ -232,6 +232,9 @@ http://172.16.200.205:8088/127/index.m3u8
 #EXTINF:-1,Real Madrid 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
+#EXTINF:-1,INTERTV 
+https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
+
 #EXTINF:-1,Flash Guys 
 
 
@@ -533,7 +536,8 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 
 
-
+#EXTINF:-1,Al Arabiya English
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 
 #EXTINF:-1,  AL JAZEERA
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
@@ -864,7 +868,8 @@ http://172.16.200.205:8088/801/index.m3u8
 
 #EXTINF:-1, Discovery science 
 
-
+#EXTINF:-1, Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8
 
 #EXTINF:-1, History 
 http://97.74.103.44:8089/nimble_live/history/playlist.m3u8
@@ -890,7 +895,6 @@ http://172.16.200.205:8088/802/index.m3u8
 http://97.74.103.44:8089/load/natgeo_wild/playlist.m3u8
 
 #EXTINF:-1,Sony BBC Earth 
-http://45.148.145.57/IN_SONYBBCHD/index.m3u8
 
 #EXTINF:1, BBC Earth
 https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?playback_start_ts=1763063441&yo.ap=https://lna.tubi.video/prd-yospace/&y
@@ -1080,6 +1084,9 @@ http://172.16.200.205:8088/703/index.m3u8
 
 #EXTINF:1,9X Jalwa
 http://103.175.73.12:8080/live/161/161_0.m3u8
+
+#EXTINF:1,3ABN Praise
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 
 #EXTINF:-1,Balleballe
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
