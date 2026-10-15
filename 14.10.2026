@@ -120,24 +120,20 @@ http://172.16.200.205:8088/203/index.m3u8
 #EXTINF:-1, channel24 
 http://cdn.moviemazic.xyz:8083/channel24/index.m3u8
 
-
 #EXTINF:-1,Channel 24
 https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
 
 #EXTINF:-1, Channel I HD
 http://cdn.moviemazic.xyz:8083/ChannelI/index.m3u8
 
-
 #EXTINF:-1,CHANNEL I HD 
 http://172.16.200.205:8088/207/index.m3u8
-
 
 #EXTINF:-1,Channel ONE NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Channel ONE NEWS
 https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8
-
 
 #EXTINF:-1, DBC news 
 http://cdn.moviemazic.xyz:8083/DBCNews/index.m3u8
@@ -156,7 +152,6 @@ http://cdn.moviemazic.xyz:8083/EkattorTV/index.m3u8
 
 #EXTINF:-1,EKATTOR TV HD
 http://172.16.200.205:8088/201/index.m3u8
-
 
 #EXTINF:-1,Ekhon Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8|Referer=https://stat
@@ -202,6 +197,11 @@ http://cdn.moviemazic.xyz:8083/StarNews/index.m3u8
 
 
 
+
+
+
+
+
 #EXTINF:-1,Ananda Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 
@@ -219,7 +219,6 @@ http://cdn.moviemazic.xyz:8083/BanglaTV/index.m3u8
 
 #EXTINF:-1,Bijoy TV
 https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
-
 
 #EXTINF:-1,Boishakhi TV HD 
 http://cdn.moviemazic.xyz:8083/BoishakhiTV/index.m3u8
@@ -560,13 +559,18 @@ http://172.16.200.205:8088/305/index.m3u8
 http://cdn.moviemazic.xyz:8083/CartoonNetwork/index.m3u8
 
 #EXTINF:-1,Cartoon Network 
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1,Cartoon Network 
 
 #EXTINF:-1, Discovery Kids 
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 
 #EXTINF:-1,DISNEP CHANNEL 
 http://172.16.200.205:8088/602/index.m3u8
+
+#EXTINF:-1,EPIC KIDS 
+https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 
 #EXTINF:-1,Funny Junior HD 
 
@@ -579,6 +583,10 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1,POGO 
 http://cdn.moviemazic.xyz:8083/pogo/index.m3u8
+
+
+#EXTINF:-1,POGO 
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1,Lucky Family 
 
@@ -607,6 +615,9 @@ http://cdn.moviemazic.xyz:8083/AnimalPlanetHD/index.m3u8
 
 #EXTINF:-1, Animal Planet HD
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
+
+#EXTINF:-1, Animal Planet HD
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 
 #EXTINF:1, BBC One
 
@@ -637,6 +648,7 @@ http://172.16.200.205:8088/801/index.m3u8
 #EXTINF:-1, Discovery History 
 
 #EXTINF:-1, Discovery science 
+https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 
 #EXTINF:1,Dove Channel 
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
@@ -712,6 +724,9 @@ http://172.16.200.205:8088/407/index.m3u8
 
 #EXTINF:-1,B4U MOVIE 
 https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
+
+#EXTINF:-1,B4U MOVIE 
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,Goldmines
 
@@ -834,26 +849,38 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywoo
 
 
 
-
+#EXTINF:-1,8XM
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
 #EXTINF:-1,9XM
 http://172.16.200.205:8088/704/index.m3u8
 
+#EXTINF:-1,9XM
+https://wiselp.wiseplayout.com/9XM/SD504/SD504.m3u8
+
 #EXTINF:-1,9x JALWA
 http://172.16.200.205:8088/703/index.m3u8
+
+#EXTINF:-1,9x JALWA
+https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
+
+#EXTINF:-1,9x JALWA
+https://wiselp.wiseplayout.com/9X_Jalwa/SD504/SD504.m3u8
 
 #EXTINF:-1,Balleballe
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Bengali Beats
+https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 
 #EXTINF:1,B4U Music
+https://cdn.pishow.tv/ott/live/415/master.m3u8
 
 #EXTINF:1,B4U Music
 https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
 
 #EXTINF:1, E24
-
+https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
 
 #EXTINF:1, Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -865,9 +892,12 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 
 #EXTINF:1, Music India
-
+https://cdn.pishow.tv/ott/live/226/master.m3u8
 
 #EXTINF:1, Show Box
+
+#EXTINF:-1,SANGET BANGLA 
+https://cdn.pishow.tv/ott/live/1143/master.m3u8
 
 #EXTINF:-1,SANGET BANGLA 
 http://172.16.200.205:8088/702/index.m3u8
