@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Unite8-sports 2
-http://172.16.60.2:8088/101/index.m3u8
-
-#EXTINF:-1,United Sport 2 Hd
-http://172.16.200.205:8088/101/index.m3u8
-
-#EXTINF:-1,Btv Hd
-http://cdn.moviemazic.xyz:8083/btv/index.m3u8
-
 #EXTINF:-1,Tsport Hd
 http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
 
@@ -101,6 +92,14 @@ https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 
 #EXTINF:-1,Real Madrid 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+
+#EXTINF:-1,Unite8-sports 2
+http://172.16.60.2:8088/101/index.m3u8
+
+#EXTINF:-1,United Sport 2 Hd
+http://172.16.200.205:8088/101/index.m3u8
+
 
 
 
