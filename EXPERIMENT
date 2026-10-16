@@ -263,8 +263,9 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1,Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1,Duranto Tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a
+
+#EXTINF:-1,DORONTU TV
+http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 
 #EXTINF:-1, Green Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
@@ -421,6 +422,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
+#EXTINF:1,CNA Originals
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,Cnn News
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
@@ -428,8 +432,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8 
 
 
-#EXTINF:-1,Cgtn Documentary 
-https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
 #EXTINF:-1,Cgtn
 https://0472.org/hls/cgtn.m3u8
@@ -439,6 +441,9 @@ https://0472.org/hls/cgtn.m3u8
 
 #EXTINF:-1,CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+
+#EXTINF:-1,Cgtn Documentary 
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
 #EXTINF:-1,DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8 
@@ -810,6 +815,8 @@ https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HL
 
 
 
+
+
 #EXTINF:-1,& TV 
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 
@@ -834,6 +841,13 @@ https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
 #EXTINF:-1,SONY TELEVISION HD
 http://172.16.200.205:8088/403/index.m3u8
 
+
+
+
+
+
+
+
 #EXTINF:-1,& Picture HD
 http://cdn.moviemazic.xyz:8083/andpictureHD/index.m3u8
 
@@ -851,7 +865,7 @@ https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
 #EXTINF:-1,B4U MOVIE 
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,B4UKADAK
+#EXTINF:-1,B4U KADAK
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 
 #EXTINF:-1,Bhojpuri Cinema
@@ -966,6 +980,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywoo
 
 
 
+
+
+
+
 #EXTINF:-1,8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
@@ -1060,6 +1078,10 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 
 #EXTINF:-1,Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+
+
+
 
 
 
