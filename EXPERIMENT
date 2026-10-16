@@ -362,6 +362,9 @@ https://drk6xq0vhn.gpcdn.net/live/islamic_tv/index.m3u8
 #EXTINF:-1,Madani Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
+#EXTINF:-1,Madani Bangla
+https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
+
 #EXTINF:-1, Peace Tv Bangla 
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
@@ -540,6 +543,7 @@ http://172.16.200.205:8088/304/index.m3u8
 
 #EXTINF:-1,Colors Bangla Cinema
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
+http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8#skym3u.dev
 
 #EXTINF:-1,DD BANGLA 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
