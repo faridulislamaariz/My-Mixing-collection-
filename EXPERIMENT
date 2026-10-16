@@ -619,6 +619,9 @@ http://cdn.moviemazic.xyz:8083/ZeeBanglaTV/index.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8 
 
 #EXTINF:-1,ZEE BANGLA HD
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1,ZEE BANGLA HD
 http://172.16.200.205:8088/301/index.m3u8
 
 #EXTINF:-1,Zee Bangla cinema 
@@ -817,6 +820,8 @@ https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manif
 #EXTINF:-1, Fashion tv (Paris )
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
+#EXTINF:-1,Fashion one 
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 
 
 
@@ -829,6 +834,9 @@ http://cdn.moviemazic.xyz:8083/COLORSHD/index.m3u8
 
 #EXTINF:-1,COLOURS HD
 http://172.16.200.205:8088/405/index.m3u8
+
+#EXTINF:-1,HI DOST
+https://cdn.pishow.tv/ott/live/224/master.m3u8
 
 #EXTINF:-1,STAR PLUS HD 
 http://172.16.200.205:8088/401/index.m3u8
@@ -1046,7 +1054,9 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 
 #EXTINF:1, Music India
-https://cdn.pishow.tv/ott/live/226/master.m3u8
+https://cdn.pishow.tv/ott/live/226/master.m3u
+#EXTINF:-1,Only music
+https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
 
 #EXTINF:1, PTC MUSIC 
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
