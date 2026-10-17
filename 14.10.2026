@@ -678,6 +678,9 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1,Kids Stars 
 
+#EXTINF:-1, Minimax
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+
 #EXTINF:-1,Mr.Bean
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 
@@ -687,6 +690,10 @@ http://cdn.moviemazic.xyz:8083/pogo/index.m3u8
 
 #EXTINF:-1,POGO 
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
+
+
+#EXTINF:-1, POP
+https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8
 
 #EXTINF:-1, Power kids 
 https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8
@@ -704,6 +711,9 @@ http://172.16.200.205:8088/601/index.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Smarty 
+
+#EXTINF:-1 , Tiny POP
+https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
 
 #EXTINF:-1,TOM & JERRY 
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
@@ -728,6 +738,9 @@ https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1, ADVENTURE EARTH 
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:1, BBC One
+
+#EXTINF:-1,AWE International
+https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
 
 #EXTINF:1,BritBox Mysteries 
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
@@ -761,11 +774,29 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 #EXTINF:1,Dove Channel 
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 
+#EXTINF:-1,Duck Dynasty
+https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,DOCUMENT
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Documentary+ 2
+https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
+
+#EXTINF:-1,Documentary+ International
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+
+#EXTINF:-1,Documentary+ USA
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+
 #EXTINF:-1, Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
 
 #EXTINF:-1, History 
 https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1,InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,Luxel HD 
 
@@ -788,7 +819,23 @@ https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg0
 #EXTINF:1, BBC Earth
 https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?playback_start_ts=1763063441&yo.ap=https://lna.tub
 
+#EXTINF:1, BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+
+#EXTINF:-1,Escape TV
+https://amg00585-amg00585c13-sportstribal-emea-5522.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-escapetv-sportstribalemea/playlist.m3u8
+
 #EXTINF:-1,Nasa tv 
+
+#EXTINF:-1,History Hit
+https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/ts-eu-w1-n2/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8
+
+#EXTINF:-1,History Hunters
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+
+#EXTINF:-1,INWILD
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+
 
 #EXTINF:-1, OUTDOOR CHANNEL 
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
@@ -799,6 +846,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1,REAL WILD 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
+#EXTINF:-1,Red Carpet TV International
+https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
+
 #EXTINF:-1,Tlc HD
 http://cdn.moviemazic.xyz:8083/TLCHD/index.m3u8
 
@@ -808,11 +858,17 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1,Travel xp 
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 
+#EXTINF:-1,True History
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
+
 #EXTINF:-1,TVRIWorld
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:-1,XPLORE HD 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+
+#EXTINF:-1,History & Warfare Now
+https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
 
 #EXTINF:-1,Wild earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
@@ -1080,8 +1136,14 @@ http://172.16.200.205:8088/702/index.m3u8
 #EXTINF:-1,SANGEET BHOJPURI
 https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 
+#EXTINF:-1,MU | Steelbird Music
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+
 #EXTINF:1, Vision Beats
 http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MU | Tunes 6
+https://stream.d6-pro.com/tunes6music/live/video.m3u8
 
 #EXTINF:-1,YRF MUSIC 
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
