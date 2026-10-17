@@ -494,6 +494,9 @@ https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenu
 #EXTINF:-1,Rt News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8 
 
+#EXTINF:-1,RT NEWS 
+https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
+
 #EXTINF:-1,Rt News 
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8 
 
