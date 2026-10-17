@@ -1,13 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1,Tsport Hd
-http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
+
 
 #EXTINF:-1,Tsport Hd
 http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
 
 #EXTINF:-1,Tsport HD
 http://172.16.200.205:8088/102/index.m3u8
+
+#EXTINF:-1,Tsport HD
+http://172.16.60.2:8088/102/index.m3u8
 
 #EXTINF:-1,EurosportHD
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
