@@ -82,10 +82,10 @@ http://cdn.moviemazic.xyz:8083/ptv/index.m3u8
 http://cdn.moviemazic.xyz:8083/ASports/index.m3u8
 
 #EXTINF:-1,A sport Hd
-http://10.16.100.206:8080/hls/asports.m3u8
+http://172.16.200.205:8088/127/index.m3u8
 
 #EXTINF:-1,A SPORTS HD
-http://172.16.200.205:8088/127/index.m3u8
+http://172.16.60.2:8088/127/index.m3u8
 
 #EXTINF:-1,INTERTV 
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
