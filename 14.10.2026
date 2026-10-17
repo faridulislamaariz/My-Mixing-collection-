@@ -24,16 +24,16 @@ http://cdn.moviemazic.xyz:8083/SonyTen1/index.m3u8
 #EXTINF:-1,SONY SPORTS 1 HD
 http://172.16.200.205:8088/119/index.m3u8
 
-#EXTINF:-1,Sony Ten 1HD 
+#EXTINF:-1,Sony Ten SD
 https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 
-#EXTINF:-1,SonyTenSports2
+#EXTINF:-1,SonyTenSports 2 Hd
 http://cdn.moviemazic.xyz:8083/SonyTen2/index.m3u8
 
 #EXTINF:-1,SONY SPORTS 2 HD
 http://172.16.200.205:8088/120/index.m3u8
 
-#EXTINF:-1,Sony Ten 2
+#EXTINF:-1,Sony Ten 2 SD
 https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 
 #EXTINF:-1,SonyTenSports3
@@ -45,7 +45,7 @@ http://172.16.200.205:8088/121/index.m3u8
 #EXTINF:-1,SonyTenSports5
 http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports5_39/index.m3u8
 
-#EXTINF:-1,Star-Select-Hd-1
+#EXTINF:-1,Star SPORTS Select Hd-1
 http://cdn.moviemazic.xyz:8083/StarSportsSelect1/index.m3u8
 
 #EXTINF:-1,Star-Select-Hd-1
@@ -54,7 +54,7 @@ http://10.10.10.2/liv.m3u8
 #EXTINF:-1,Star SPORTS SELECT  1 HD
 http://172.16.200.205:8088/123/index.m3u8
 
-#EXTINF:-1,Star-Select-Hd-2
+#EXTINF:-1,Star SPORTS Select 2 HD
 http://cdn.moviemazic.xyz:8083/StarSportsSelect2/index.m3u8
 
 #EXTINF:-1,Star SPORTS SELECT 2 HD 
@@ -63,7 +63,7 @@ http://172.16.200.205:8088/124/index.m3u8
 #EXTINF:-1,Star-Sports-1-HD
 http://cdn.moviemazic.xyz:8083/StarSports1HD/index.m3u8
 
-#EXTINF:-1,Star SPORTS 1 HD
+#EXTINF:-1,Star SPORTS 1 HD HINDI 
 http://172.16.200.205:8088/110/index.m3u8
 
 #EXTINF:-1,Star-Sports-2-HD
