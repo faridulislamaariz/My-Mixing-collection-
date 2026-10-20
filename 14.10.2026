@@ -607,6 +607,9 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.
 #EXTINF:-1,COLURS BANGLA HD
 http://172.16.200.205:8088/304/index.m3u8
 
+#EXTINF:-1,COLOURS BANGLA HD 
+http://103.114.11.37:8081/Colors-bangla/index.m3u8
+
 #EXTINF:-1,Colors Bangla Cinema
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8#skym3u.dev
