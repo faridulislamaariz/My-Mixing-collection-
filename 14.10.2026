@@ -20,6 +20,10 @@ https://robitv.com/rn/http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TSPORT HD
 http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/index.m3u8
 
+#EXTINF:-1,T SPORT HD
+http://103.151.60.162:2122/play/a030/indexhls
+u8?hls
+
 #EXTINF:-1,EurosportHD
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
@@ -284,11 +288,6 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,DORONTU TV
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 
-#EXTINF:-1, Green Tv
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
-
-#EXTINF:-1,ISLAMIC TV
-https://drk6xq0vhn.gpcdn.net/live/islamic_tv/index.m3u8
 
 #EXTINF:-1,ENTER TEN
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
@@ -308,12 +307,23 @@ http://172.16.60.2:8088/106/index.m3u8
 #EXTINF:-1,Gazi Tv
 http://172.16.200.205:8088/106/index.m3u8
 
+#EXTINF:-1,GAZI TV
+http://103.135.253.32:8080/Gazi-TV/index.m3u8
+
 #EXTINF:-1,Global Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8|Referer=https://stati
 
 #EXTINF:-1,Global Tv
 https://stream.ottplus.live/live/global_tv_abr/playlist.m3u8
 
+#EXTINF:-1, Green Tv
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
+
+#EXTINF:-1,ISLAMIC TV
+https://drk6xq0vhn.gpcdn.net/live/islamic_tv/index.m3u8
+
+#EXTINF:-1,Jalsa Bangla HD 
+https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 #EXTINF:-1,Maasranga Tv HD 
 http://cdn.moviemazic.xyz:8083/Maasranga/index.m3u8
 
@@ -829,6 +839,9 @@ http://cdn.moviemazic.xyz:8083/NationalGeographic/index.m3u8
 #EXTINF:-1,NATGEO WILD HD
 http://172.16.200.205:8088/802/index.m3u8
 
+#EXTINF:-1,NATGEO HD
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+
 #EXTINF:-1,Nature time 
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 
@@ -915,6 +928,9 @@ http://cdn.moviemazic.xyz:8083/COLORSHD/index.m3u8
 #EXTINF:-1,COLOURS HD
 http://172.16.200.205:8088/405/index.m3u8
 
+#EXTINF:-1,COLOURS HD
+http://103.135.253.32:8080/Color-HD/index.m3u8
+
 #EXTINF:-1,HI DOST
 https://cdn.pishow.tv/ott/live/224/master.m3u8
 
@@ -963,7 +979,11 @@ https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1,Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1,Goldmines
+#EXTINF:-1,MN PLUS
+http://103.135.253.32:8080/MN-PLUS/index.m3u8
+
+#EXTINF:-1,MOVIES NOW 
+http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
 
 #EXTINF:-1, Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -973,6 +993,9 @@ http://cdn.moviemazic.xyz:8083/Star-Movies/index.m3u8
 
 #EXTINF:-1,STAR MOVIES HD 
 http://172.16.200.205:8088/501/index.m3u8
+
+#EXTINF:-1,STAR MOVIES HD
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
 
 #EXTINF:-1, Movies Now Hd
 
