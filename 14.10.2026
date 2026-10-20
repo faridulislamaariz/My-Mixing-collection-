@@ -102,6 +102,9 @@ http://172.16.200.205:8088/127/index.m3u8
 #EXTINF:-1,A SPORTS HD
 http://172.16.60.2:8088/127/index.m3u8
 
+#EXTINF:-1,ATN SPORT 
+https://stream1.liveland.af/hls/tv/ariana/playlist.m3u8
+
 #EXTINF:-1,INTERTV 
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 
@@ -199,8 +202,6 @@ http://cdn.moviemazic.xyz:8083/News24/index.m3u8
 #EXTINF:-1,News 24 HD
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 
-#EXTINF:-1,News 21 HD
-http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 #EXTINF:-1,Somoy News
 http://cdn.moviemazic.xyz:8083/SomoyTv/index.m3u8
@@ -288,6 +289,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,DORONTU TV
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 
+#EXTINF:-1,DORONTU TV
+http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1,ENTER TEN
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
@@ -353,6 +356,9 @@ https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Nexus HD
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
+
+#EXTINF:-1,News 21 HD
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 #EXTINF:-1, Rajdhani Tv
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
