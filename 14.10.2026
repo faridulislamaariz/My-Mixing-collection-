@@ -258,6 +258,9 @@ http://cdn.moviemazic.xyz:8083/btv/index.m3u8
 #EXTINF:-1,BTV NATIONAL 
 http://cdn.moviemazic.xyz:8083/BTV-National/index.m3u8
 
+#EXTINF:-1,BTV NATIONAL 
+http://103.135.253.32:8080/BTV/index.m3u8
+
 #EXTINF:-1,Channel 9 HD
 http://cdn.moviemazic.xyz:8083/Channel9/index.m3u8
 
@@ -266,6 +269,9 @@ https://box.bbaria.net/Channel9/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
+
+#EXTINF:-1,CHANNEL 52
+http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, CHANNEL S HD 
 https://box.bbaria.net:8083/ChannelS/video.m3u8
@@ -348,6 +354,9 @@ http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF:-1,MY TV HD
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
+#EXTINF:-1,NTV HD
+http://103.135.253.32:8080/NTV/index.m3u8
+
 #EXTINF:-1,NAGORIK TV
 http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8
 
@@ -375,6 +384,12 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,SA TV HD 
 http://cdn.moviemazic.xyz:8083/SATV/index.m3u8
 
+#EXTINF:-1,SA TV HD 
+http://116.204.149.16/satv/index.m3u8
+
+#EXTINF:-1,SNB CINEMA 
+http://103.182.83.246/hls/snbcinema.m3u8
+
 #EXTINF:-1,SRK TV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
@@ -392,6 +407,12 @@ https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1,ISLAMIC TV
 https://drk6xq0vhn.gpcdn.net/live/islamic_tv/index.m3u8
 
+#EXTINF:-1,ISLAMIC TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
+
+#EXTINF:-1,ISLAM CHANNEL TV 
+https://live-islamtv-bangla.simplestreamcdn.com/out/v1/islamchannel/islamtv-bangla/hls-ts/index.m3u8
+
 #EXTINF:-1,Madani Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
@@ -406,6 +427,9 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1, Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
+#EXTINF:-1, Peace Tv Bangla
+http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
 
 #EXTINF:-1,Makkah Live 
 http://cdn.moviemazic.xyz:8083/modinalive/index.m3u8
