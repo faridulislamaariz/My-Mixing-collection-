@@ -14,9 +14,6 @@ http://172.16.60.2:8088/102/index.m3u8
 #EXTINF:-1,TSPORT HD
 http://103.209.196.22:84/feed1001/index.m3u8
 
-#EXTINF:-1,T SPORT HD
-https://robitv.com/rn/http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,TSPORT HD
 http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/index.m3u8
 
@@ -110,7 +107,6 @@ https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 
 #EXTINF:-1,Real Madrid 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-
 
 #EXTINF:-1,Unite8-sports 2
 http://172.16.60.2:8088/101/index.m3u8
@@ -299,7 +295,6 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1,Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-
 #EXTINF:-1,DORONTU TV
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 
@@ -341,6 +336,7 @@ https://drk6xq0vhn.gpcdn.net/live/islamic_tv/index.m3u8
 
 #EXTINF:-1,Jalsa Bangla HD 
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8
+
 #EXTINF:-1,Maasranga Tv HD 
 http://cdn.moviemazic.xyz:8083/Maasranga/index.m3u8
 
@@ -484,7 +480,6 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1, BREAKING NEWS 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
 
-
 #EXTINF:-1, CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
@@ -503,12 +498,7 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 #EXTINF:-1,Cnn News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8 
 
-
-
 #EXTINF:-1,Cgtn
-https://0472.org/hls/cgtn.m3u8
-
-#EXTINF:-1,CGTN
 https://0472.org/hls/cgtn.m3u8
 
 #EXTINF:-1,CGTN
@@ -541,7 +531,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1,INDIA TODAY
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
-#EXTINF:-1,ND tv
+#EXTINF:-1,ND TV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
 #EXTINF:-1,News Max
@@ -617,7 +607,6 @@ http://172.16.200.205:8088/304/index.m3u8
 http://103.114.11.37:8081/Colors-bangla/index.m3u8
 
 #EXTINF:-1,Colors Bangla Cinema
-http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8#skym3u.dev
 
 #EXTINF:-1,DD BANGLA 
@@ -671,7 +660,6 @@ http://172.16.200.205:8088/302/index.m3u8
 #EXTINF:-1, Jalsha Movies
 http://cdn.moviemazic.xyz:8083/StarJalshaMovies/index.m3u8 
 
-
 #EXTINF:-1,JALSA MOVIES HD
 http://172.16.200.205:8088/303/index.m3u8
 
@@ -704,6 +692,7 @@ https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8
 
 #EXTINF:-1,ZEE BANGLA SONAR 
 http://172.16.200.205:8088/305/index.m3u8
+
 
 
 
@@ -756,10 +745,8 @@ https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1,POGO 
 http://cdn.moviemazic.xyz:8083/pogo/index.m3u8
 
-
 #EXTINF:-1,POGO 
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
-
 
 #EXTINF:-1, POP
 https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8
@@ -774,7 +761,6 @@ https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1,NICK JR HD
 http://172.16.200.205:8088/601/index.m3u8
 
-#EXTINF:-1,POGO 
 
 #EXTINF:-1, Rongeentv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
@@ -795,6 +781,7 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 
 
 
+
 #EXTINF:-1, Animal Planet HD
 http://cdn.moviemazic.xyz:8083/AnimalPlanetHD/index.m3u8
 
@@ -806,6 +793,7 @@ https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 
 #EXTINF:-1, ADVENTURE EARTH 
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:1, BBC One
 
 #EXTINF:-1,AWE International
