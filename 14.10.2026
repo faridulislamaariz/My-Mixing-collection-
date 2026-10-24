@@ -18,8 +18,10 @@ http://103.209.196.22:84/feed1001/index.m3u8
 http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/index.m3u8
 
 #EXTINF:-1,T SPORT HD
+http://103.151.60.162:2122/play/a030/index.m3u8?hls
 http://103.151.60.162:2122/play/a030/indexhls
 u8?hls
+
 
 #EXTINF:-1,EurosportHD
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
