@@ -32,7 +32,7 @@ http://172.16.200.205:8088/128/index.m3u8
 #EXTINF:-1,EurosportHD
 http://cdn.moviemazic.xyz:8083/EurosportHD/index.m3u8
 
-#EXTINF:-1,SONY-TEN-1
+#EXTINF:-1,SONY-TEN-1 HD 
 http://cdn.moviemazic.xyz:8083/SonyTen1/index.m3u8
 
 #EXTINF:-1,SONY SPORTS 1 HD
