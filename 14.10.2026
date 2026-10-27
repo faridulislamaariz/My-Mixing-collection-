@@ -110,7 +110,7 @@ https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 #EXTINF:-1,Real Madrid 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
-#EXTINF:-1,Unite8-sports 2
+#EXTINF:-1,SUPER sports
 http://172.16.60.2:8088/101/index.m3u8
 
 #EXTINF:-1,United Sport 2 Hd
@@ -217,6 +217,8 @@ http://cdn.moviemazic.xyz:8083/StarNews/index.m3u8
 
 #EXTINF:-1,Star News HD
 http://103.135.253.32:8080/Star-News/index.m3u8
+
+
 
 
 
@@ -413,7 +415,7 @@ https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1,ISLAMIC TV
 https://drk6xq0vhn.gpcdn.net/live/islamic_tv/index.m3u8
 
-#EXTINF:-1,ISLAMIC TV
+#EXTINF:-1, ISLAMIC TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
 
 #EXTINF:-1,ISLAM CHANNEL TV 
@@ -659,7 +661,7 @@ http://cdn.moviemazic.xyz:8083/StarJalshaHD/index.m3u8
 #EXTINF:-1,STAR JALSA HD
 http://172.16.200.205:8088/302/index.m3u8
 
-#EXTINF:-1, Jalsha Movies
+#EXTINF:-1, Jalsha Movies HD 
 http://cdn.moviemazic.xyz:8083/StarJalshaMovies/index.m3u8 
 
 #EXTINF:-1,JALSA MOVIES HD
@@ -723,7 +725,7 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1,DISNEP CHANNEL 
 http://172.16.200.205:8088/602/index.m3u8
 
-#EXTINF:-1,DORONTU TV
+#EXTINF:-1, DORONTU TV
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 
 #EXTINF:-1,EPIC KIDS 
@@ -810,7 +812,7 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 #EXTINF:1, Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 
-#EXTINF:1,CNA Originals
+#EXTINF:1, CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,Delicious 
@@ -968,16 +970,16 @@ https://cdn.pishow.tv/ott/live/224/master.m3u8
 #EXTINF:-1,STAR PLUS HD 
 http://172.16.200.205:8088/401/index.m3u8
 
-#EXTINF:-1,Sony Tv 
+#EXTINF:-1,Sony Tv HD
 http://cdn.moviemazic.xyz:8083/SonyEntertainmentTelevisionHD/index.m3u8
 
-#EXTINF:-1,Sony Tv 
+#EXTINF:-1,Sony Tv SD
 https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
 
-#EXTINF:-1,Sony TvHD 
+#EXTINF:-1,Sony Tv SD
 https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
 
-#EXTINF:-1,SONY TELEVISION HD
+#EXTINF:-1,SONY TELEVISION SD
 http://172.16.200.205:8088/403/index.m3u8
 
 
@@ -998,10 +1000,10 @@ http://172.16.200.205:8088/407/index.m3u8
 #EXTINF:-1,& Prive 
 
 
-#EXTINF:-1,B4U MOVIE 
+#EXTINF:-1,B4U MOVIE ASPAC
 https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
 
-#EXTINF:-1,B4U MOVIE 
+#EXTINF:-1,B4U KADAK
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,B4U KADAK
@@ -1013,7 +1015,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1,MN PLUS
 http://103.135.253.32:8080/MN-PLUS/index.m3u8
 
-#EXTINF:-1,MOVIES NOW 
+#EXTINF:-1,MOVIES NOW HD 
 http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
 
 #EXTINF:-1, Shemaroo Bollywood 
@@ -1030,17 +1032,17 @@ http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
 
 #EXTINF:-1, Movies Now Hd
 
-#EXTINF:-1,Star Gold 
+#EXTINF:-1,Star Gold HD
 http://cdn.moviemazic.xyz:8083/Star-Gold/index.m3u8
 
-#EXTINF:-1,STAR GOLD HD
+#EXTINF:-1,STAR GOLD SD
 http://172.16.200.205:8088/402/index.m3u8
 
 
-#EXTINF:-1,Sony max
+#EXTINF:-1,Sony max HD
 http://cdn.moviemazic.xyz:8083/SonyMAX/index.m3u8
 
-#EXTINF:-1,Sony max
+#EXTINF:-1,Sony max SD
 https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
 
 #EXTINF:-1,Sony max HD 
@@ -1052,7 +1054,7 @@ https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 #EXTINF:-1,Sony Pix Hd 
 http://cdn.moviemazic.xyz:8083/Feedget/SonyPIXHD/index.m3u8
 
-#EXTINF:-1,SONY PIX HD 
+#EXTINF:-1,SONY PIX SD
 http://172.16.200.205:8088/503/index.m3u8
 
 #EXTINF:-1,Sony Sab Hd
