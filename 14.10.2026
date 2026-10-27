@@ -236,6 +236,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1,Ananda Tv
 http://ms.towkai.com/anandatv_ml/index.m3u8
 
+#EXTINF:-1,ANAND TV
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+
 #EXTINF:-1,ASIAN TV HD
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 
@@ -666,6 +669,9 @@ http://cdn.moviemazic.xyz:8083/StarJalshaMovies/index.m3u8
 
 #EXTINF:-1,JALSA MOVIES HD
 http://172.16.200.205:8088/303/index.m3u8
+
+#EXTINF:-1,JALSA MOVIES SD 
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,SUN BANGLA 
 https://homair-tv-production.up.railway.app/api/play/Sun%20Bangla.m3u8
