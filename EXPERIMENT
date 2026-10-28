@@ -8,6 +8,7 @@ http://172.16.60.2:8088/102/index.m3u8
 http://103.209.196.22:84/feed1001/index.m3u8
 https://robitv.com/rn/http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/index.m3u8
+http://103.151.60.162:2122/play/a030/index.m3u8?hls
 
 #EXTINF:-1,EurosportHD
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
