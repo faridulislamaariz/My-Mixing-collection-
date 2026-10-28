@@ -9,6 +9,7 @@ http://103.209.196.22:84/feed1001/index.m3u8
 https://robitv.com/rn/http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/index.m3u8
 http://103.151.60.162:2122/play/a030/index.m3u8?hls
+http://ms.towkai.com/T_SportsFHD/index.m3u8
 
 #EXTINF:-1,EurosportHD
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
@@ -104,6 +105,7 @@ https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
 #EXTINF:-1, Channel I HD
 http://cdn.moviemazic.xyz:8083/ChannelI/index.m3u8
 http://172.16.200.205:8088/207/index.m3u8
+http://ms.towkai.com/ChanneliHD/index.m3u8
 
 #EXTINF:-1,Channel ONE NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
@@ -116,6 +118,7 @@ http://172.16.200.205:8088/204/index.m3u8
 #EXTINF:-1,DESH TV HD
 http://cdn.moviemazic.xyz:8083/DeshTV/index.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8|Referer=https://stat
+http://ms.towkai.com/DeshSD/index.m3u8
 
 #EXTINF:-1,Ekattor tv
 http://cdn.moviemazic.xyz:8083/EkattorTV/index.m3u8
@@ -165,13 +168,16 @@ https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 
 #EXTINF:-1,ASIAN TV HD
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
+http://ms.towkai.com/asiantv_ml/index.m3u8
 
 #EXTINF:-1,Atn Bangla HD
 http://cdn.moviemazic.xyz:8083/ATNBangla/index.m3u8
 http://172.16.200.205:8088/202/index.m3u8
+http://ms.towkai.com/atnbangla_ml/index.m3u8
 
 #EXTINF:-1,Bangla vision Hd
 http://cdn.moviemazic.xyz:8083/BanglaVision/index.m3u8
+ttp://ms.towkai.com/banglavision_ml/index.m3u8
 
 #EXTINF:-1,Bangla Tv Hd
 http://cdn.moviemazic.xyz:8083/BanglaTV/index.m3u8
@@ -181,9 +187,11 @@ https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
 
 #EXTINF:-1,Boishakhi TV HD 
 http://cdn.moviemazic.xyz:8083/BoishakhiTV/index.m3u8
+http://ms.towkai.com/boishakhi_ml/index.m3u8
 
 #EXTINF:-1,BTV 
 http://cdn.moviemazic.xyz:8083/btv/index.m3u8
+http://ms.towkai.com/BTVNewsHD/index.m3u8
 
 #EXTINF:-1,BTV NATIONAL 
 http://cdn.moviemazic.xyz:8083/BTV-National/index.m3u8
@@ -197,6 +205,7 @@ http://100.64.64.11/sangshad/index.m3u8
 #EXTINF:-1,Channel 9 HD
 http://cdn.moviemazic.xyz:8083/Channel9/index.m3u8
 https://box.bbaria.net/Channel9/tracks-v1a1/index.m3u8
+http://ms.towkai.com/channel9_ml/index.m3u8
 
 #EXTINF:-1, Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
@@ -214,6 +223,7 @@ https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 http://cdn.moviemazic.xyz:8083/DeeptoTV/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8 
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+http://ms.towkai.com/DeeptoHD/index.m3u8
 
 #EXTINF:-1,Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -222,6 +232,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,DORONTU TV
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
+http://ms.towkai.com/DurontoHD/index.m3u8
 
 
 #EXTINF:-1,ENTER TEN
@@ -236,6 +247,7 @@ http://cdn.moviemazic.xyz:8083/live-5/index.m3u8
 http://172.16.60.2:8088/106/index.m3u8
 http://172.16.200.205:8088/106/index.m3u8
 http://103.135.253.32:8080/Gazi-TV/index.m3u8
+http://ms.towkai.com/gazi_ml/index.m3u8
 
 #EXTINF:-1,Global Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8|Referer=https://stati
@@ -253,9 +265,11 @@ https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 #EXTINF:-1,Maasranga Tv HD 
 http://cdn.moviemazic.xyz:8083/Maasranga/index.m3u8
 http://172.16.200.205:8088/206/index.m3u8
+http://ms.towkai.com/maasranga/index.m3u8
 
 #EXTINF:-1,MOHONA TV HD
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
+http://ms.towkai.com/MOHONA/index.m3u8
 
 #EXTINF:-1,Me TV
 https://iptvbd.live/metv1080/1080.m3u8 
