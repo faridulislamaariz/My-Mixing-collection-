@@ -50,7 +50,7 @@ http://172.16.200.205:8088/120/index.m3u8
 #EXTINF:-1,Sony Ten 2 SD
 https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 
-#EXTINF:-1,SonyTenSports3
+#EXTINF:-1,SonyTenSports 3
 http://cdn.moviemazic.xyz:8083/SonyTen3/index.m3u8
 
 #EXTINF:-1,SONY SPORTS 3 HD
@@ -343,6 +343,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1,Green tv 
 http://ms.towkai.com/GreenTV/index.m3u8
+
 #EXTINF:-1,ISLAMIC TV
 https://drk6xq0vhn.gpcdn.net/live/islamic_tv/index.m3u8
 
@@ -544,7 +545,7 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1, EURO News
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 
-#EXTINF:-1,Nhk Japan 
+#EXTINF:-1,NHK Japan 
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 #EXTINF:-1,INDIA TODAY
@@ -915,7 +916,7 @@ https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/ts-eu-w1-n2/playlist/ldsAAA
 #EXTINF:-1,History Hunters
 https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
 
-#EXTINF:-1,INWILD
+#EXTINF:-1,IN WILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 
 
@@ -939,6 +940,9 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 
 #EXTINF:-1,Travel xp 
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+
+#EXTINF:-1,True Crime UK
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8?
 
 #EXTINF:-1,True History
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
@@ -966,6 +970,8 @@ https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HL
 
 #EXTINF:-1,Fashion one 
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
+
+
 
 
 
@@ -1209,6 +1215,7 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 #EXTINF:1, Music India
 https://cdn.pishow.tv/ott/live/226/master.m3u
+
 #EXTINF:-1,Only music
 https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
 
