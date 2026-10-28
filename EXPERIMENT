@@ -51,6 +51,8 @@ http://172.16.200.205:8088/124/index.m8  1 PROBLEM
 
 #EXTINF:-1,Star-Sports-1-HD
 http://cdn.moviemazic.xyz:8083/StarSports1HD/index.m3u8
+
+#EXTINF:-1,Star-Sports HINDI 1HD
 http://172.16.200.205:8088/110/index.m3u8
 
 #EXTINF:-1,Star-Sports-2-HD
