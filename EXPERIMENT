@@ -97,6 +97,7 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1,ATN NEWS HD
 http://cdn.moviemazic.xyz:8083/ATNNews/index.m3u8
 http://172.16.200.205:8088/203/index.m3u8
+http://ms.towkai.com/atnnews_ml/index.m3u8
 
 #EXTINF:-1, channel24 
 http://cdn.moviemazic.xyz:8083/channel24/index.m3u8
@@ -123,6 +124,7 @@ http://ms.towkai.com/DeshSD/index.m3u8
 #EXTINF:-1,Ekattor tv
 http://cdn.moviemazic.xyz:8083/EkattorTV/index.m3u8
 http://172.16.200.205:8088/201/index.m3u8
+http://ms.towkai.com/EkattorHD/index.m3u8
 
 #EXTINF:-1,Ekhon Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8|Referer=https://stat
@@ -294,6 +296,7 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 #EXTINF:-1, Nexus HD
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
+http://ms.towkai.com/NexustvHD/index.m3u8
 
 #EXTINF:-1, Rajdhani Tv
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
