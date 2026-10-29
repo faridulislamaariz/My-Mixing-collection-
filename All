@@ -142,6 +142,9 @@ http://cdn.moviemazic.xyz:8083/channel24/index.m3u8
 #EXTINF:-1,Channel 24
 https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
 
+#EXTINF:-1,Channel 24
+http://ms.towkai.com/channel24_ml/index.m3u8
+
 #EXTINF:-1, Channel I HD
 http://cdn.moviemazic.xyz:8083/ChannelI/index.m3u8
 
@@ -162,6 +165,10 @@ http://cdn.moviemazic.xyz:8083/DBCNews/index.m3u8
 
 #EXTINF:-1,DBC NEWS HD
 http://172.16.200.205:8088/204/index.m3u8
+
+
+#EXTINF:-1,DBC NEWS HD
+http://ms.towkai.com/dbcnews_ml/index.m3u8
 
 #EXTINF:-1,DESH TV HD
 http://cdn.moviemazic.xyz:8083/DeshTV/index.m3u8
@@ -190,17 +197,26 @@ https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 #EXTINF:-1,Ekhon Tv
 https://drk6xq0vhn.gpcdn.net/live/ekhon_tv_abr/index.m3u8
 
+#EXTINF:-1,Ekhon Tv
+http://ms.towkai.com/EkhonHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Independent TV
 http://cdn.moviemazic.xyz:8083/IndependentTV/index.m3u8
 
 #EXTINF:-1,Independent TV
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/index.m3u8
 
+#EXTINF:-1,Independent TV
+http://ms.towkai.com/itv_ml/index.m3u8
+
 #EXTINF:-1,Jamuna Tv HD
 http://cdn.moviemazic.xyz:8083/JamunaTV/index.m3u8
 
 #EXTINF:-1,Jamuna News
 http://172.16.200.205:8088/209/index.m3u8
+
+#EXTINF:-1,Jamuna News
+http://ms.towkai.com/Jamuna_SD/index.m3u8
 
 #EXTINF:-1,Jago News
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
@@ -210,6 +226,9 @@ http://cdn.moviemazic.xyz:8083/News24/index.m3u8
 
 #EXTINF:-1,News 24 HD
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+
+#EXTINF:-1,News 24 HD
+http://ms.towkai.com/News24HD/index.m3u8
 
 #EXTINF:-1,News 21 HD
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
@@ -223,11 +242,17 @@ https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8
 #EXTINF:-1,SOMOY NEWS HD
 http://172.16.200.205:8088/205/index.m3u8
 
+#EXTINF:-1,SOMOY NEWS HD
+http://ms.towkai.com/somoytv/index.m3u8
+
 #EXTINF:-1,Star News HD
 http://cdn.moviemazic.xyz:8083/StarNews/index.m3u8
 
 #EXTINF:-1,Star News HD
 http://103.135.253.32:8080/Star-News/index.m3u8
+
+#EXTINF:-1,Star News HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 
 
 
@@ -272,8 +297,14 @@ ttp://ms.towkai.com/banglavision_ml/index.m3u8
 #EXTINF:-1,Bangla Tv Hd
 http://cdn.moviemazic.xyz:8083/BanglaTV/index.m3u8
 
+#EXTINF:-1,Bangla Tv Hd
+http://ms.towkai.com/banglatv/index.m3u8
+
 #EXTINF:-1,Bijoy TV
 https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
+
+#EXTINF:-1,Bijoy TV
+http://ms.towkai.com/bijoy_ml/index.m3u8
 
 #EXTINF:-1,Boishakhi TV HD 
 http://cdn.moviemazic.xyz:8083/BoishakhiTV/index.m3u8
@@ -318,6 +349,9 @@ http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1, CHANNEL S HD 
 https://box.bbaria.net:8083/ChannelS/video.m3u8
 
+#EXTINF:-1, CHANNEL S HD 
+http://ms.towkai.com/channels_ml/index.m3u8
+
 #EXTINF:-1, DOYEL TV
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 
@@ -350,6 +384,9 @@ http://cdn.moviemazic.xyz:8083/ETV/index.m3u8
 #EXTINF:-1,ETV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
+#EXTINF:-1,ETV
+http://ms.towkai.com/Ekusheytv/index.m3u8
+
 #EXTINF:-1,Gazi Tv
 http://cdn.moviemazic.xyz:8083/live-5/index.m3u8
 
@@ -372,8 +409,15 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Global Tv
 https://stream.ottplus.live/live/global_tv_abr/playlist.m3u8
 
+
+#EXTINF:-1,Global Tv
+http://ms.towkai.com/globaltv/index.m3u8
+
 #EXTINF:-1, Green Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
+
+#EXTINF:-1, Green Tv
+http://ms.towkai.com/GreenTV/index.m3u8
 
 #EXTINF:-1,ISLAMIC TV
 https://drk6xq0vhn.gpcdn.net/live/islamic_tv/index.m3u8
@@ -408,6 +452,9 @@ http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF:-1,MY TV HD
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
+#EXTINF:-1,MY TV HD
+http://ms.towkai.com/mytv/index.m3u8
+
 #EXTINF:-1,NAGORIK TV
 http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8
 
@@ -429,6 +476,7 @@ http://103.135.253.32:8080/NTV/index.m3u8
 #EXTINF:-1,NTV HD 
 http://ms.towkai.com/ntvsd/index.m3u8
 
+
 #EXTINF:-1, Rajdhani Tv
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
@@ -449,6 +497,9 @@ http://cdn.moviemazic.xyz:8083/SATV/index.m3u8
 
 #EXTINF:-1,SA TV HD 
 http://116.204.149.16/satv/index.m3u8
+
+#EXTINF:-1,SA TV HD 
+http://ms.towkai.com/satv/index.m3u8
 
 #EXTINF:-1,SNB CINEMA 
 http://103.182.83.246/hls/snbcinema.m3u8
