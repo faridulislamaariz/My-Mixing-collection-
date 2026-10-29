@@ -10,6 +10,8 @@ https://robitv.com/rn/http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/index.m3u8
 http://103.151.60.162:2122/play/a030/index.m3u8?hls
 http://ms.towkai.com/T_SportsFHD/index.m3u8
+
+#EXTINF:-1,Tsport Hd
 http://103.16.24.4:8083/14.m3u8
 
 #EXTINF:-1,EurosportHD
