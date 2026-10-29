@@ -726,10 +726,13 @@ https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,DOCUMENT
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,Documentary+ 2
 https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
+
 #EXTINF:-1,Documentary+ International
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+
 #EXTINF:-1,Documentary+ USA
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 
@@ -759,7 +762,7 @@ http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 #EXTINF:-1,Nature time 
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 
-#EXTINF:-1,Sony BBC Earth 
+#EXTINF:1, Sony BBC Earth 
 https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 
 #EXTINF:1, BBC Earth
