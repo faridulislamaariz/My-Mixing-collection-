@@ -601,6 +601,9 @@ http://cdn.moviemazic.xyz:8083/CartoonNetwork/index.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1,Cartoon Network 
+https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
+
+#EXTINF:-1,Cartoon Network 
 
 #EXTINF:-1, Discovery Kids 
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
@@ -650,6 +653,9 @@ http://172.16.200.205:8088/601/index.m3u8
 
 #EXTINF:-1, Rongeentv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,SONY YAH 
+https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
 
 #EXTINF:-1,Smarty 
 
@@ -702,6 +708,9 @@ http://172.16.200.205:8088/801/index.m3u8
 
 #EXTINF:-1, Discovery History 
 
+#EXTINF:-1,Investigation Discovery
+https://stream.ottplus.live/live/id_hd_abr/index.m3u8
+
 #EXTINF:-1, Discovery science 
 https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 
@@ -747,6 +756,7 @@ http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 
 #EXTINF:-1,Sony BBC Earth 
+https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 
 #EXTINF:1, BBC Earth
 https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?playback_start_ts=1763063441&yo.ap=https://lna.tub
