@@ -207,6 +207,9 @@ http://172.16.200.205:8088/207/index.m3u8
 #EXTINF:-1,CHANNEL I HD 
 http://ms.towkai.com/ChanneliHD/index.m3u8
 
+#EXTINF:-1,CHANNEL I HD 
+https://nkafmbewiff.gpcdn.net/tile_5/master.m3u8
+
 #EXTINF:-1,Channel ONE NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 
@@ -239,6 +242,10 @@ http://172.16.200.205:8088/201/index.m3u8
 
 #EXTINF:-1,EKATTOR TV HD
 http://ms.towkai.com/EkattorHD/index.m3u8
+
+
+#EXTINF:-1,EKATTOR TV HD
+https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
 
 #EXTINF:-1,Ekhon Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8|Referer=https://stat
@@ -386,6 +393,9 @@ http://ms.towkai.com/BTVNewsHD/index.m3u8
 #EXTINF:-1,,BTV NATIONAL HD
 http://ms.towkai.com/BtvNational/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,,BTV NATIONAL HD
+https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
+
 #EXTINF:-1,BTV SANGSHAD
 http://100.64.64.11/sangshad/index.m3u8
 
@@ -397,6 +407,9 @@ https://box.bbaria.net/Channel9/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Channel 9 HD
 http://ms.towkai.com/channel9_ml/index.m3u8
+
+#EXTINF:-1,Channel 9 HD
+https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8
 
 #EXTINF:-1, Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
@@ -424,6 +437,10 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1,Deepto tv
 http://ms.towkai.com/DeeptoHD/index.m3u8
+
+#EXTINF:-1,Deepto tv
+https://nkafmbewiff.gpcdn.net/tile_6/master.m3u8
+
 
 #EXTINF:-1,Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -501,6 +518,9 @@ http://172.16.200.205:8088/206/index.m3u8
 #EXTINF:-1,MAASRANGA TV HD
 http://ms.towkai.com/maasranga/index.m3u8
 
+#EXTINF:-1,MAASRANGA TV HD
+https://nkafmbewiff.gpcdn.net/tile_4/master.m3u8
+
 #EXTINF:-1,MOHONA TV HD
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 
@@ -560,6 +580,10 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,RTV HD
 http://ms.towkai.com/rtvhd/index.m3u8
 
+#EXTINF:-1,RTV HD
+https://j6nfugukcl.gpcdn.net/tile_6/master.m3u8
+
+
 #EXTINF:-1,SA TV HD 
 http://cdn.moviemazic.xyz:8083/SATV/index.m3u8
 
@@ -568,6 +592,9 @@ http://116.204.149.16/satv/index.m3u8
 
 #EXTINF:-1,SA TV HD 
 http://ms.towkai.com/satv/index.m3u8
+
+#EXTINF:-1,SA TV HD 
+https://nkafmbewiff.gpcdn.net/tile_3/master.m3u8
 
 #EXTINF:-1,SNB CINEMA 
 http://103.182.83.246/hls/snbcinema.m3u8
@@ -635,6 +662,9 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 
 #EXTINF:-1,  AL JAZEERA
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1,  AL JAZEERA
+https://j6nfugukcl.gpcdn.net/tile_7/master.m3u8
 
 #EXTINF:-1,Africa 
 https://edge17.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
@@ -735,6 +765,9 @@ https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-sk
 
 #EXTINF:-1,TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8 
+
+#EXTINF:-1,TRT WORLD
+https://j6nfugukcl.gpcdn.net/tile_4/master.m3u8
 
 #EXTINF:-1,Talk tv
 
@@ -1270,6 +1303,10 @@ https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
 
 #EXTINF:-1,ZEE CINEMA HD 
 http://172.16.200.205:8088/406/index.m3u8
+
+
+#EXTINF:-1,ZEE CINEMA HD 
+https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8
 
 #EXTINF:-1,Zee TV 
 https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
