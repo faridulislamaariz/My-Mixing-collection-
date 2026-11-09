@@ -1337,6 +1337,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywoo
 #EXTINF:-1,8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
+#EXTINF:-1,81 M
+https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
+
 #EXTINF:-1,9XM
 http://172.16.200.205:8088/704/index.m3u8
 
@@ -1448,8 +1451,13 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 
 
+#EXTINF:1,A-Plus TV
+https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
+
 #EXTINF:1, Aaj
 
+#EXTINF:1,ABN News
+https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 
 #EXTINF:-1,Ary Digital 
 
@@ -1457,6 +1465,15 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1, Ary News
 https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
+
+#EXTINF:1,Bol Entertainment
+https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
+
+#EXTINF:1,Capital TV
+https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
+
+#EXTINF:1,Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 
 #EXTINF:-1,DISCOVERY PAKISTAN
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
@@ -1474,6 +1491,10 @@ https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:1, Express247
 
 
+
+#EXTINF:1,Falak TV
+https://falak.rst.ae/index.m3u8
+
 #EXTINF:-1,Geo HD (Pakistan)
 
 #EXTINF:1,Geo Entertainment 
@@ -1481,6 +1502,14 @@ https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:1,Geo News
 
 
+#EXTINF:1,God Stands TV English
+https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
+
+#EXTINF:1,God Stands TV Hindi
+https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8
+
+#EXTINF:1,God Stands TV Main
+https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8
 
 #EXTINF:1, Green TV
 
@@ -1498,8 +1527,21 @@ https://j6nfugukcl.gpcdn.net/tile_1/master.m3u8
 #EXTINF:1,HUM SITARAY 
 https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8
 
+
+#EXTINF:1,Isaac TV
+https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
+
+#EXTINF:1,Jalwa TV
+https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
+
 #EXTINF:-1,M news Hd
 https://cdn.abra.stream/M-World/index.fmp4.m3u8
+
+#EXTINF:1,Neo News
+https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
+   
+#EXTINF:1,News One
+https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
 
 #EXTINF:-1, unknown 
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
