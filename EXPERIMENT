@@ -302,9 +302,9 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 
 #EXTINF:-1,DORONTU TV
+http://ms.towkai.com/DurontoHD/index.m3u8
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
-http://ms.towkai.com/DurontoHD/index.m3u8
 
 
 #EXTINF:-1,ENTER TEN
@@ -673,6 +673,7 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 http://172.16.200.205:8088/602/index.m3u8
 
 #EXTINF:-1,DORONTU TV
+http://ms.towkai.com/DurontoHD/index.m3u8
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 
 #EXTINF:-1,EPIC KIDS 
