@@ -1151,41 +1151,28 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 
 
-" "A-Plus TV",
-   
-        https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
 
-"nanoid": "BG3WWAjyFpp31n",
-    "name": "ABN News",
-    "sources": {
-      "streams": [
-        "https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
+#EXTINF:1,A-Plus TV
+https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
+
+#EXTINF:1,ABN News
+https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
+
 #EXTINF:1, Aaj
 
-
 #EXTINF:-1,Ary Digital 
-
-
 
 #EXTINF:-1, Ary News
 https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
 
-nanoid": "AdIl1CSIOqCaJ6",
-    "name": "Bol Entertainment",
-    "sources": {
-      "streams": [
-        "https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
+#EXTINF:1,Bol Entertainment",
+https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
 
-"name": "Capital TV",
-    "sources": {
-      "streams": [
-        "https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
+#EXTINF:1,Capital TV
+https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
 
-
-name": "Cartoon Network",
-    "sources": {
-      "streams": [
-        "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+#EXTINF:1,Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 
 #EXTINF:-1,DISCOVERY PAKISTAN
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
@@ -1207,87 +1194,35 @@ https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 
 #EXTINF:1,Geo News
 
-
-
 #EXTINF:1, Green TV
 
+#EXTINF:1,Falak TV
+https://falak.rst.ae/index.m3u8
 
-"nanoid": "rKWtSDnBOLuIZX",
-    "name": "Falak TV",
-    "sources": {
-      "streams": [
-        "https://falak.rst.ae/index.m3u8
+#EXTINF:1,God Stands TV English
+https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
 
+#EXTINF:1,God Stands TV Hindi
+https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8
 
-"nanoid": "GzFin24wHyjwSS",
-    "name": "God Stands TV English",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v05zRUt0wtjOm3",
-    "name": "God Stands TV Hindi",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
-      ]
-    },
-    "languages": [
-      "hin"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gmAnyp0vi78tWo",
-    "name": "God Stands TV Main",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8"
-      ]
+#EXTINF:1,God Stands TV Main
+https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8
 
-"name": "Isaac TV",
-    "sources": {
-      "streams": [
-        "https://livecdn.live247stream.com/isaac/tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZIW6JObjbTmBLX",
-    "name": "Jalwa TV",
-    "sources": {
-      "streams": [
-        "https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
-
+#EXTINF:1,Isaac TV
+https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
+ 
+#EXTINF:1,Jalwa TV
+https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
 
 #EXTINF:-1,Hum Tv Hd (Pakistan)
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
-
-
 
 #EXTINF:1,HUM TV HD
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 
 #EXTINF:1,HUM MASALA  HD
 https://j6nfugukcl.gpcdn.net/tile_1/master.m3u8
-
-sources": {
-      "streams": [
-        "https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
+https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
 
 #EXTINF:1,HUM SITARAY 
 https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8
@@ -1295,27 +1230,11 @@ https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8
 #EXTINF:-1,M news Hd
 https://cdn.abra.stream/M-World/index.fmp4.m3u8
 
-"nanoid": "S1n88rMuz1tEg9",
-    "name": "Neo News",
-    "sources": {
-      "streams": [
-        "https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Dn8J2Ex2jjyZWp",
-    "name": "News One",
-    "sources": {
-      "streams": [
-        "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
-
-
+#EXTINF:1,Neo News
+https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
+   
+#EXTINF:1,News One
+https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
 
 #EXTINF:-1, unknown 
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
