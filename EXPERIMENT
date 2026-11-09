@@ -1059,13 +1059,15 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywoo
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
 #EXTINF:-1,9XM
-http://172.16.200.205:8088/704/index.m3u8
 https://wiselp.wiseplayout.com/9XM/SD504/SD504.m3u8
+http://172.16.200.205:8088/704/index.m3u8
+
 
 #EXTINF:-1,9x JALWA
+https://wiselp.wiseplayout.com/9X_Jalwa/SD504/SD504.m3u8
 http://172.16.200.205:8088/703/index.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
-https://wiselp.wiseplayout.com/9X_Jalwa/SD504/SD504.m3u8
+
 
 #EXTINF:-1,9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
