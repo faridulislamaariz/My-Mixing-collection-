@@ -54,9 +54,9 @@ http://172.16.200.205:8088/121/index.m3u8
 #EXTINF:-1,SONY SPORTS 4 HD
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten4_hd.m3u8
 
-#EXTINF:-1,SonyTenSports5
-http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports5_39/index.m3u8
+#EXTINF:-1,SonyTenSports5 Hd
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten5_hd.m3u8
+http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports5_39/index.m3u8
 
 
 #EXTINF:-1,Star SPORTS SELECT  1 HD
