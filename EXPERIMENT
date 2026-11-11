@@ -666,7 +666,11 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1,Colours Bangla
 http://cdn.moviemazic.xyz:8083/colors-bangla/index.m3u8
+
+#EXTINF:-1,Colours Bangla
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+#EXTINF:-1,Colours Bangla
 http://172.16.200.205:8088/304/index.m3u8
 http://103.114.11.37:8081/Colors-bangla/index.m3u8
 
@@ -711,9 +715,11 @@ http://172.16.200.205:8088/306/index.m3u8
 
 #EXTINF:-1,Star Jalsha Hd
 http://cdn.moviemazic.xyz:8083/StarJalshaHD/index.m3u8
+
+#EXTINF:-1,Star Jalsha Hd
 http://172.16.200.205:8088/302/index.m3u8
 
-#EXTINF:-1, Jalsha Movies
+#EXTINF:-1, Jalsha Movies HD
 http://cdn.moviemazic.xyz:8083/StarJalshaMovies/index.m3u8 
 http://172.16.200.205:8088/303/index.m3u8
 
