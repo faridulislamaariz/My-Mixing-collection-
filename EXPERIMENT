@@ -1198,6 +1198,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
 #EXTINF:-1,9XM
 https://wiselp.wiseplayout.com/9XM/SD504/SD504.m3u8
+
+#EXTINF:-1,9XM
 http://172.16.200.205:8088/704/index.m3u8
 
 
@@ -1221,6 +1223,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 
 #EXTINF:1,B4U Music
 https://cdn.pishow.tv/ott/live/415/master.m3u8
+
+#EXTINF:1,B4U Music
 https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
 
 #EXTINF:-1,Deewana HD
