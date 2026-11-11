@@ -28,10 +28,15 @@ http://103.16.24.4:8083/14.m3u8
 #EXTINF:-1,EurosportHD
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 http://172.16.200.205:8088/128/index.m3u8
+
+#EXTINF:-1,EurosportHD
 http://cdn.moviemazic.xyz:8083/EurosportHD/index.m3u8
 
 #EXTINF:-1,SONY TEN 1 HD 
 http://cdn.moviemazic.xyz:8083/SonyTen1/index.m3u8
+
+
+#EXTINF:-1,SONY TEN 1 HD 
 http://172.16.200.205:8088/119/index.m3u8
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten1_hd.m3u8
 
@@ -40,6 +45,8 @@ https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 
 #EXTINF:-1,SonyTen Sports 2 HD 
 http://cdn.moviemazic.xyz:8083/SonyTen2/index.m3u8
+
+#EXTINF:-1,SonyTen Sports 2 HD
 http://172.16.200.205:8088/120/index.m3u8
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten2_hd.m3u8
 
@@ -93,11 +100,15 @@ http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,PTV SPORTS 
 http://cdn.moviemazic.xyz:8083/ptv/index.m3u8
+
+#EXTINF:-1,PTV SPORTS
 https://live.msnetworks.net/ptv-sports/master.m3u8
 
 #EXTINF:-1,A SPORTS HD
 http://cdn.moviemazic.xyz:8083/ASports/index.m3u8
 http://10.16.100.206:8080/hls/asports.m3u8
+
+#EXTINF:-1,A SPORTS HD
 http://172.16.200.205:8088/127/index.m3u8
 https://live.msnetworks.net/a-sports/master.m3u8
 
@@ -183,11 +194,13 @@ https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
 
 #EXTINF:-1,Ekhon Tv
 http://ms.towkai.com/EkhonHD/tracks-v1a1/mono.m3u8
+
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 
 #EXTINF:-1,Ekhon Tv
 https://drk6xq0vhn.gpcdn.net/live/ekhon_tv_abr/index.m3u8
 http://103.16.24.4:8083/1.m3u8
+https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8|Referer=https://stat
 
 #EXTINF:-1,Independent TV
@@ -219,6 +232,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1,Star News HD
 http://103.135.253.32:8080/Star-News/index.m3u8
+
+#EXTINF:-1,Star News HD
 http://cdn.moviemazic.xyz:8083/StarNews/index.m3u8
 
 
@@ -234,8 +249,8 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.
 
 #EXTINF:-1,Ananda Tv
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8 
 http://ms.towkai.com/anandatv_ml/index.m3u8
-https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 
 #EXTINF:-1,ASIAN TV HD
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
@@ -278,9 +293,11 @@ http://100.64.64.11/sangshad/index.m3u8
 
 #EXTINF:-1,Channel 9 HD
 http://ms.towkai.com/channel9_ml/index.m3u8
+
+#EXTINF:-1,Channel 9 HD
 https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8
 http://cdn.moviemazic.xyz:8083/Channel9/index.m3u8
-https://box.bbaria.net/Channel9/tracks-v1a1/index.m3uHD
+https://box.bbaria.net/Channel9/tracks-v1a1/index.m3u8
 
 
 
@@ -313,6 +330,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1,DORONTU TV
 http://ms.towkai.com/DurontoHD/index.m3u8
+
+#EXTINF:-1,DORONTU TV
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
 
@@ -377,6 +396,8 @@ https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,NTV HD
 http://ms.towkai.com/ntvsd/index.m3u8
+
+#EXTINF:-1,NTV HD
 https://nkafmbewiff.gpcdn.net/tile_3/master.m3u8
 http://103.135.253.32:8080/NTV/index.m3u8
 
@@ -454,6 +475,8 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 
 #EXTINF:-1,  AL JAZEERA
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1,  AL JAZEERA
 https://j6nfugukcl.gpcdn.net/tile_7/master.m3u8
 
 #EXTINF:-1,Africa 
