@@ -52,6 +52,7 @@ http://172.16.200.205:8088/120/index.m3u8
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten2_hd.m3u8
 
 #EXTINF:-1,SonyTen Sports 2 SD
+http://103.16.24.4:8083/6.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 
 #EXTINF:-1,SONY SPORTS 3 HD
@@ -677,6 +678,8 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.
 http://172.16.200.205:8088/304/index.m3u8
 http://103.114.11.37:8081/Colors-bangla/index.m3u8
 
+#EXTINF:-1,Colours Bangla
+http://103.16.24.4:8083/10.m3u8
 
 #EXTINF:-1,Colors Bangla Cinema
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
@@ -750,6 +753,10 @@ http://172.16.200.205:8088/301/index.m3u8
 #EXTINF:-1,ZEE BANGLA HD
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
 http://172.16.200.205:8088/301/index.m3u8
+
+
+#EXTINF:-1,ZEE BANGLA SD
+http://103.16.24.4:8083/12.m3u8
 
 #EXTINF:-1,Zee Bangla cinema 
 https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8
