@@ -10,10 +10,11 @@
 
 #EXTINF:-1,Tsport Hd
 http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
-http://172.16.200.205:8088/102/index.m3u8
-http://172.16.60.2:8088/102/index.m3u8
+
 
 #EXTINF:-1,Tsport Hd
+http://172.16.200.205:8088/102/index.m3u8
+http://172.16.60.2:8088/102/index.m3u8
 http://103.209.196.22:84/feed1001/index.m3u8
 https://robitv.com/rn/http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/index.m3u8
@@ -120,6 +121,8 @@ http://10.16.100.206:8080/hls/asports.m3u8
 
 #EXTINF:-1,A SPORTS HD
 http://172.16.200.205:8088/127/index.m3u8
+
+#EXTINF:-1,A SPORTS HD
 https://live.msnetworks.net/a-sports/master.m3u8
 
 #EXTINF:-1,A SPORTS HD
@@ -180,7 +183,9 @@ http://27.124.71.27/beIN_Sports_1/index.m3u8
 #EXTINF:-1,BEIN SPORTS HD 2
 http://27.124.71.27/beIN_Sports_2/index.m3u8
 
-#EXTINF:-1,BEIN SPORTS HD 3    http://27.124.71.27/beIN_Sports_3/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS HD 3
+http://27.124.71.27/beIN_Sports_3/index.m3u8
 
 #EXTINF:-1,OMAN SPORT
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
@@ -243,6 +248,7 @@ https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
 #EXTINF:-1,Ekhon Tv
 http://ms.towkai.com/EkhonHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Ekhon Tv
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 
 #EXTINF:-1,Ekhon Tv
