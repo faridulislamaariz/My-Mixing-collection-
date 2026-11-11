@@ -115,6 +115,9 @@ http://cdn.moviemazic.xyz:8083/ptv/index.m3u8
 #EXTINF:-1,PTV SPORTS
 https://live.msnetworks.net/ptv-sports/master.m3u8
 
+#EXTINF:-1,PTV SPORT SD
+http://103.16.24.4:8083/4.m3u8
+
 #EXTINF:-1,A SPORTS HD
 http://cdn.moviemazic.xyz:8083/ASports/index.m3u8
 http://10.16.100.206:8080/hls/asports.m3u8
@@ -847,6 +850,9 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 
 #EXTINF:-1, Animal Planet HD
 http://cdn.moviemazic.xyz:8083/AnimalPlanetHD/index.m3u8
+
+
+#EXTINF:-1, Animal Planet HD
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 
@@ -875,6 +881,8 @@ https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3
 #EXTINF:-1, Discovery HD 
 http://cdn.moviemazic.xyz:8083/Discovery/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+
+#EXTINF:-1, Discovery HD 
 http://172.16.200.205:8088/801/index.m3u8
 
 
@@ -924,6 +932,8 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,National Geographic 
 http://cdn.moviemazic.xyz:8083/NationalGeographic/index.m3u8
+
+#EXTINF:-1,National Geographic
 http://172.16.200.205:8088/802/index.m3u8
 http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 
@@ -934,7 +944,7 @@ https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg0
 https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 
 #EXTINF:1, BBC Earth
-https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8?playback_start_ts=1763063441&yo.ap=https://lna.tub
+https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8
 
 #EXTINF:1, BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
@@ -1015,6 +1025,9 @@ https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 
 #EXTINF:-1, Colors HD
 http://cdn.moviemazic.xyz:8083/COLORSHD/index.m3u8
+
+
+#EXTINF:-1, Colors HD
 http://172.16.200.205:8088/405/index.m3u8
 http://103.135.253.32:8080/Color-HD/index.m3u8
 
@@ -1069,6 +1082,8 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 
 #EXTINF:-1,Star Movie Hd
 http://cdn.moviemazic.xyz:8083/Star-Movies/index.m3u8
+
+#EXTINF:-1,Star Movie Hd
 http://172.16.200.205:8088/501/index.m3u8
 http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
 
@@ -1094,6 +1109,8 @@ https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 
 #EXTINF:-1,Sony Pix Hd 
 http://cdn.moviemazic.xyz:8083/Feedget/SonyPIXHD/index.m3u8
+
+#EXTINF:-1,Sony Pix Hd
 http://172.16.200.205:8088/503/index.m3u8
 
 #EXTINF:-1,Sony Sab Hd
@@ -1109,7 +1126,11 @@ https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
 #EXTINF:-1,ZEE CINEMA HD
 http://cdn.moviemazic.xyz:8083/ZeeCinemaHD/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
+
+#EXTINF:-1,ZEE CINEMA HD
 http://172.16.200.205:8088/406/index.m3u8
+
+#EXTINF:-1,ZEE CINEMA HD
 https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8
 
 #EXTINF:-1,Zee TV 
