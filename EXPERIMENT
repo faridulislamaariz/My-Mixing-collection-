@@ -11,6 +11,11 @@
 #EXTINF:-1,Tsport Hd
 http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
 
+#EXTINF:-1,Tsport Hd
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Tsport Hd
+https://bdtop1.tvhunter.top/dfdf/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Tsport Hd
 http://172.16.200.205:8088/102/index.m3u8
@@ -103,6 +108,9 @@ http://cdn.moviemazic.xyz:8083/StarSports2HD/index.m3u8
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 http://172.16.200.205:8088/115/index.m3u8
 
+#EXTINF:-1,Dd sports 
+https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
+
 #EXTINF:-1,TenCricket
 http://cdn.moviemazic.xyz:8083/TenCricket/index.m3u8
 
@@ -137,6 +145,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
 #EXTINF:-1,TEN SPORTS HD
 https://live.msnetworks.net/ten-sports/master.m3u8
+
+#EXTINF:-1,M sports 
+https://cdn.rabta.stream/M-Sports/index.m3u8
 
 #EXTINF:-1,Sky Sport HD 
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
@@ -754,6 +765,8 @@ http://172.16.200.205:8088/301/index.m3u8
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
 http://172.16.200.205:8088/301/index.m3u8
 
+#EXTINF:-1,ZEE BANGLA HD
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
 
 #EXTINF:-1,ZEE BANGLA SD
 http://103.16.24.4:8083/12.m3u8
@@ -1111,6 +1124,9 @@ https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
 #EXTINF:-1,Sony max HD 
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
 
+#EXTINF:-1,Sony max 1
+https://bdtop1.tvhunter.top/max1/index.m3u8
+
 #EXTINF:-1,Sony max 2 
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 
@@ -1192,6 +1208,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywoo
 
 
 
+
+#EXTINF:-1,7s music 
+https://cdn.pishow.tv/ott/live/1257/master.m3u8
 
 #EXTINF:-1,8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
