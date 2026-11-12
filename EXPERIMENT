@@ -665,6 +665,9 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
+#EXTINF:-1,Rt News
+http://ms.towkai.com/rtnews_ml/index.m3u8
+
 #EXTINF:-1,SABC NEWS 
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
 
@@ -847,6 +850,9 @@ https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1,Joy 
 
+#EXTINF:-1,Hungama
+http://ms.towkai.com/hungama_ml/index.m3u8
+
 #EXTINF:-1, Jungle book 
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
@@ -945,6 +951,10 @@ https://stream.ottplus.live/live/id_hd_abr/index.m3u8
 #EXTINF:-1, Discovery science 
 https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 
+
+#EXTINF:-1, Discovery science
+http://ms.towkai.com/discoveryscience_mimelive/index.m3u8
+
 #EXTINF:1,Dove Channel 
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 
@@ -988,6 +998,10 @@ http://cdn.moviemazic.xyz:8083/NationalGeographic/index.m3u8
 http://172.16.200.205:8088/802/index.m3u8
 http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 
+
+#EXTINF:-1,NATGEO WILD
+http://ms.towkai.com/natgeowild_mimelive/index.m3u8
+
 #EXTINF:-1,Nature time 
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 
@@ -1010,6 +1024,10 @@ https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/ts-eu-w1-n2/playlist/ldsAAA
 
 #EXTINF:-1,History Hunters
 https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+
+
+#EXTINF:-1,HISTORY TV HD
+http://ms.towkai.com/historytv_mimelive/index.m3u8
 
 #EXTINF:-1,IN WILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
@@ -1085,6 +1103,9 @@ http://103.135.253.32:8080/Color-HD/index.m3u8
 #EXTINF:-1,HI DOST
 https://cdn.pishow.tv/ott/live/224/master.m3u8
 
+#EXTINF:-1,MTV HD
+http://ms.towkai.com/mtv_mimelive/index.m3u8
+
 #EXTINF:-1,STAR PLUS HD 
 http://172.16.200.205:8088/401/index.m3u8
 
@@ -1104,6 +1125,9 @@ http://172.16.200.205:8088/403/index.m3u8
 #EXTINF:-1,& Picture HD
 http://cdn.moviemazic.xyz:8083/andpictureHD/index.m3u8
 http://172.16.200.205:8088/407/index.m3u8
+
+#EXTINF:-1,& Picture HD
+http://ms.towkai.com/andpictures_ml/index.m3u8
 
 #EXTINF:-1,& Flix Hd 
 
@@ -1138,13 +1162,28 @@ http://cdn.moviemazic.xyz:8083/Star-Movies/index.m3u8
 http://172.16.200.205:8088/501/index.m3u8
 http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
 
-#EXTINF:-1, Movies Now Hd
+
+
+#EXTINF:-1,Star Movie HD 
+http://ms.towkai.com/starmovies_ml/index.m3u8
+
+#EXTINF:-1,STAR movies select HD 
+http://ms.towkai.com/star_movies_select/index.m3u8
 
 #EXTINF:-1,Star Gold 
 http://cdn.moviemazic.xyz:8083/Star-Gold/index.m3u8
 
+#EXTINF:-1,Star Gold
+http://ms.towkai.com/stargold_ml/index.m3u8
+
 #EXTINF:-1,STAR GOLD SD
 http://172.16.200.205:8088/402/index.m3u8
+
+#EXTINF:-1,STAR GOLD 2
+http://ms.towkai.com/stargold2_ml/index.m3u8
+
+#EXTINF:-1,STAR GOLD SELECT 
+http://ms.towkai.com/star_gold_select/index.m3u8
 
 #EXTINF:-1,Sony max HD
 http://cdn.moviemazic.xyz:8083/SonyMAX/index.m3u8
@@ -1186,6 +1225,9 @@ http://172.16.200.205:8088/406/index.m3u8
 
 #EXTINF:-1,ZEE CINEMA HD
 https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8
+
+#EXTINF:-1,ZEE CINEMA HD
+http://ms.towkai.com/zeecinema_ml/index.m3u8
 
 #EXTINF:-1,Zee TV 
 https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
@@ -1277,6 +1319,9 @@ https://cdn.pishow.tv/ott/live/415/master.m3u8
 #EXTINF:1,B4U Music
 https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
 
+#EXTINF:1,B4U Music
+http://ms.towkai.com/b4umuzic_ml/index.m3u8
+
 #EXTINF:-1,Deewana HD
 https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 
@@ -1353,6 +1398,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 #EXTINF:1, Aaj
 
 #EXTINF:-1,Ary Digital 
+http://ms.towkai.com/arydigital_ml/index.m3u8
 
 #EXTINF:-1, Ary News
 https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
@@ -1411,6 +1457,9 @@ https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66
 
 #EXTINF:1,HUM TV HD
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
+
+#EXTINF:1,HUM TV Hd
+http://ms.towkai.com/hum_ml/index.m3u8
 
 #EXTINF:1,HUM MASALA  HD
 https://j6nfugukcl.gpcdn.net/tile_1/master.m3u8
