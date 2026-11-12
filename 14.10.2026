@@ -537,6 +537,10 @@ http://103.135.253.32:8080/Gazi-TV/index.m3u8
 #EXTINF:-1,GAZI TV
 http://ms.towkai.com/gazi_ml/index.m3u8
 
+
+#EXTINF:-1,Global Tv
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
+
 #EXTINF:-1,Global Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8|Referer=https://stati
 
@@ -625,6 +629,9 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1, Rajdhani Tv
 https://drk6xq0vhn.gpcdn.net/live/rajdhani_tv/index.m3u8
+
+#EXTINF:-1,RTV HD
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
 
 #EXTINF:-1,RTV HD 
 http://cdn.moviemazic.xyz:8083/RTV/index.m3u8
