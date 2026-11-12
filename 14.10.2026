@@ -202,7 +202,29 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
 
+#EXTINF:-1,BAHRAIN SPORT 1 
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
+#EXTINF:-1,BAHRAIN SPORT 2 
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORTS HD 1
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS HD 2
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS HD 3
+http://27.124.71.27/beIN_Sports_3/index.m3u8
+
+#EXTINF:-1,OMAN SPORT
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1,WWE 
+https://dpv6ceilvhyrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ufe851j0vqbg/playlist.m3u8
+
+#EXTINF:-1,TENNIS PLUS 
+https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
 
 
 
