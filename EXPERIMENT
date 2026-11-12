@@ -157,9 +157,11 @@ https://cdn.rabta.stream/M-Sports/index.m3u8
 #EXTINF:-1,Sky Sport HD 
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
+
 #EXTINF:-1,ATN SPORT 
-https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
 https://stream1.liveland.af/hls/tv/ariana/playlist.m3u8
+https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
+
 
 #EXTINF:-1,INTERTV 
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
