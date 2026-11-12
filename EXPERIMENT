@@ -66,7 +66,6 @@ https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallin
 
 #EXTINF:-1,SonyTenSports 3
 http://cdn.moviemazic.xyz:8083/SonyTen3/index.m3u8
-http://172.16.200.205:8088/121/index.m3u8
 
 #EXTINF:-1,SONY SPORTS 4 HD
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten4_hd.m3u8
@@ -82,6 +81,8 @@ http://cdn.moviemazic.xyz:8083/StarSportsSelect1/index.m3u8
 #EXTINF:-1,Star SPORTS SELECT  1 HD
 http://10.10.10.2/liv.m3u8
 http://172.16.200.205:8088/123/index.m3u8
+
+#EXTINF:-1,Star SPORTS SELECT  1 HD
 https://livetv.shamon-cable.net:8443/Star-select-1/index.m3u8
 
 #EXTINF:-1,Star SPORTS SELECT 2 HD 
@@ -204,6 +205,7 @@ http://27.124.71.27/beIN_Sports_3/index.m3u8
 
 #EXTINF:-1,OMAN SPORT
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
 
 
 
