@@ -313,6 +313,10 @@ http://ms.towkai.com/EkhonHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ekhon Tv
 http://103.16.24.4:8083/1.m3u8
 
+
+#EXTINF:-1,Ekhon Tv
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+
 #EXTINF:-1,Independent TV
 http://cdn.moviemazic.xyz:8083/IndependentTV/index.m3u8
 
