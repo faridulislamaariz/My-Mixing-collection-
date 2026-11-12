@@ -58,6 +58,7 @@ http://172.16.200.205:8088/119/index.m3u8
 
 #EXTINF:-1,SONY SPORTS 1 HD
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten1_hd.m3u8
+
 #EXTINF:-1,Sony Ten SD
 https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 
@@ -69,6 +70,9 @@ http://172.16.200.205:8088/120/index.m3u8
 
 #EXTINF:-1,SONY SPORTS 2 HD
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten2_hd.m3u8
+
+#EXTINF:-1,SonyTen Sports 2 SD
+http://103.16.24.4:8083/6.m3u8
 
 #EXTINF:-1,Sony Ten 2 SD
 https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
@@ -131,6 +135,12 @@ https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 #EXTINF:-1,TenCricket
 http://cdn.moviemazic.xyz:8083/TenCricket/index.m3u8
 
+#EXTINF:-1,TenCricket
+https://app.uckingcrazy1.workers.dev/api/play/Ten%20Cricket.m3u8
+
+#EXTINF:-1,TenCricket
+http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,PTV SPORTS 
 http://cdn.moviemazic.xyz:8083/ptv/index.m3u8
 
@@ -149,6 +159,15 @@ http://172.16.200.205:8088/127/index.m3u8
 #EXTINF:-1,A SPORTS HD
 https://live.msnetworks.net/a-sports/master.m3u8
 
+#EXTINF:-1,A SPORTS HD
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,M sports 
+https://cdn.rabta.stream/M-Sports/index.m3u8
+
+#EXTINF:-1,PK  SPORT
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+
 #EXTINF:-1,M sports 
 https://cdn.rabta.stream/M-Sports/index.m3u8
 
@@ -157,6 +176,10 @@ https://live.msnetworks.net/ten-sports/master.m3u8
 
 #EXTINF:-1,TEN CRICKET
 http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sky Sport HD 
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+
 
 #EXTINF:-1,INTERTV 
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
@@ -174,8 +197,8 @@ http://172.16.200.205:8088/101/index.m3u8
 #EXTINF:-1,Motor vision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
-#EXTINF:-1,PK  SPORT
-https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+#EXTINF:-1,UNBEATEN 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-lges/playlist.m3u8
 
 #EXTINF:-1,AFRICA 24 SPORT 
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
@@ -185,6 +208,29 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 
 #EXTINF:-1,Premium SPORT HD arabic
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1,BAHRAIN SPORT 1 
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1,BAHRAIN SPORT 2 
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORTS HD 1
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS HD 2
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS HD 3
+http://27.124.71.27/beIN_Sports_3/index.m3u8
+
+#EXTINF:-1,OMAN SPORT
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+
+
+
+
 
 
 
@@ -451,10 +497,14 @@ https://nkafmbewiff.gpcdn.net/tile_6/master.m3u8
 #EXTINF:-1,Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
+#EXTINF:-1,DORONTU TV
+http://ms.towkai.com/DurontoHD/index.m3u8
 
 #EXTINF:-1,DORONTU TV
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 
+#EXTINF:-1,DORONTU TV
+http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1,ENTER TEN
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
