@@ -1594,5 +1594,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
 #EXTINF:1,News One
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
 
+#EXTINF:-1,SAMAA
+http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WuXg9-XguehOEAcWbPJ4iCU/m3u8
+
 #EXTINF:-1, unknown 
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
