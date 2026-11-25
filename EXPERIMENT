@@ -12,7 +12,6 @@
 http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
 
 #EXTINF:-1,Tsport Hd
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Tsport Hd
 http://172.16.200.205:8088/102/index.m3u8
@@ -21,7 +20,6 @@ http://172.16.200.205:8088/102/index.m3u8
 http://172.16.60.2:8088/102/index.m3u8
 
 #EXTINF:-1,Tsport Hd
-http://103.151.60.162:2122/play/a030/index.m3u8?hls
 http://ms.towkai.com/T_SportsFHD/index.m3u8
 
 #EXTINF:-1,Tsport Hd
@@ -382,6 +380,9 @@ http://ms.towkai.com/banglatv/index.m3u8
 #EXTINF:-1,Bijoy TV
 http://ms.towkai.com/bijoy_ml/index.m3u8
 
+EXTINF:-1,Bijoy TV
+http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WkA6wH0dy36UnJbd-3LxlpI/m3u8
+
 #EXTINF:-1,Boishakhi TV HD 
 http://cdn.moviemazic.xyz:8083/BoishakhiTV/index.m3u8
 
@@ -463,6 +464,8 @@ http://ms.towkai.com/Ekusheytv/index.m3u8
 
 #EXTINF:-1,Gazi Tv
 http://cdn.moviemazic.xyz:8083/live-5/index.m3u8
+
+#EXTINF:-1,Gazi Tv
 http://172.16.60.2:8088/106/index.m3u8
 http://172.16.200.205:8088/106/index.m3u8
 http://103.135.253.32:8080/Gazi-TV/index.m3u8
