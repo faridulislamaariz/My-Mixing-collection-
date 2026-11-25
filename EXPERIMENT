@@ -344,6 +344,11 @@ http://cdn.moviemazic.xyz:8083/StarNews/index.m3u8
 
 
 
+
+
+
+
+
 #EXTINF:-1,Ananda Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 
@@ -452,6 +457,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 http://ms.towkai.com/DurontoHD/index.m3u8
 
 #EXTINF:-1,DORONTU TV
+http://172.19.17.34:8080/play/NVlaNZ1VHS3FaHGMH-VxxRJV0mvXsGVWwYZtMq8zC0Y/m3u8
 
 #EXTINF:-1,ENTER TEN
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
@@ -915,11 +921,13 @@ https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 
 #EXTINF:-1,DISNEP CHANNEL 
-http://172.16.200.205:8088/602/index.m3u8
+http://172.16.200.205:8088/602/
 
 #EXTINF:-1,DORONTU TV
 http://ms.towkai.com/DurontoHD/index.m3u8
-http://103.135.253.32:8080/DORONTU-TV/index.m3u8
+
+#EXTINF:-1,DORONTU TV
+http://172.19.17.34:8080/play/NVlaNZ1VHS3FaHGMH-VxxRJV0mvXsGVWwYZtMq8zC0Y/m3u8
 
 #EXTINF:-1,EPIC KIDS 
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
@@ -988,8 +996,8 @@ http://cdn.moviemazic.xyz:8083/AnimalPlanetHD/index.m3u8
 
 
 #EXTINF:-1, Animal Planet HD
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
+
+http://172.19.17.34:8080/play/xxpuvjsDcGJyOODSBK5FfcX_Y4C2Br4SRI8dUT6LhHM/m3u8
 
 #EXTINF:-1, ADVENTURE EARTH 
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1015,7 +1023,9 @@ https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3
 
 #EXTINF:-1, Discovery HD 
 http://cdn.moviemazic.xyz:8083/Discovery/index.m3u8
-https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+
+#EXTINF:-1, Discovery HD
+http://172.19.17.34:8080/play/xxpuvjsDcGJyOODSBK5Fff7fW4jvB1FQCK7hxsC6a08/m3u8
 
 #EXTINF:-1, Discovery HD 
 http://172.16.200.205:8088/801/index.m3u8
@@ -1074,7 +1084,9 @@ http://cdn.moviemazic.xyz:8083/NationalGeographic/index.m3u8
 
 #EXTINF:-1,National Geographic
 http://172.16.200.205:8088/802/index.m3u8
-http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+
+#EXTINF:-1,National Geographic
+http://172.19.17.34:8080/play/xxpuvjsDcGJyOODSBK5FffvWudnhtWQx4OebSHftSzM/m3u8
 
 
 #EXTINF:-1,NATGEO WILD
@@ -1086,8 +1098,11 @@ https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg0
 #EXTINF:1, Sony BBC Earth 
 https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 
+
+#EXTINF:1, Sony BBC Earth
+http://172.19.17.34:8080/play/xxpuvjsDcGJyOODSBK5Ffdtyg4WSEG4ZL5woQW5DupE/m3u8
+
 #EXTINF:1, BBC Earth
-https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8
 
 #EXTINF:1, BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
@@ -1132,6 +1147,9 @@ http://cdn.moviemazic.xyz:8083/TLCHD/index.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 
+#EXTINF:TRAVEL XP
+http://172.19.17.34:8080/play/xxpuvjsDcGJyOODSBK5FfVOs0aygpEP2-38jEPVyIq4/m3u8
+
 #EXTINF:-1,True Crime UK
 https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8?
 
@@ -1155,6 +1173,8 @@ https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 
 #EXTINF:-1, Fashion tv
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+
+#EXTINF:-1, Fashion tv
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
 #EXTINF:-1,Fashion one 
@@ -1168,7 +1188,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 
 
 #EXTINF:-1,& TV 
-https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
+http://172.19.17.34:8080/play/WhxL0zgjweD4vbwGdbQpcVzLR6PZP17z_R_12ycJvhY/m3u8
 
 #EXTINF:-1, Colors HD
 http://cdn.moviemazic.xyz:8083/COLORSHD/index.m3u8
@@ -1176,7 +1196,6 @@ http://cdn.moviemazic.xyz:8083/COLORSHD/index.m3u8
 
 #EXTINF:-1, Colors HD
 http://172.16.200.205:8088/405/index.m3u8
-http://103.135.253.32:8080/Color-HD/index.m3u8
 
 #EXTINF:-1,HI DOST
 https://cdn.pishow.tv/ott/live/224/master.m3u8
@@ -1189,8 +1208,9 @@ http://172.16.200.205:8088/401/index.m3u8
 
 #EXTINF:-1,SONY TELEVISION 
 http://cdn.moviemazic.xyz:8083/SonyEntertainmentTelevisionHD/index.m3u8
-https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
-https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
+
+
+#EXTINF:-1,SONY TELEVISION
 http://172.16.200.205:8088/403/index.m3u8
 
 
@@ -1213,7 +1233,7 @@ http://ms.towkai.com/andpictures_ml/index.m3u8
 
 
 #EXTINF:-1,B4U MOVIE 
-https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
+http://172.19.17.34:8080/play/38Ktbowu6zaZiz9SZEW6aU38_8J8Hd1BOHxc2onVuiM/m3u8
 
 #EXTINF:-1,B4U KADAK
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
@@ -1226,7 +1246,8 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1,MN PLUS
 http://103.135.253.32:8080/MN-PLUS/index.m3u8
-#EXTINF:-1,#EXTINF:-1,MN PLUS
+
+#EXTINF:-1,MN PLUS
 http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WpBIsFhhW-AOAJM2-yOHNyE/m3u8
 
 #EXTINF:-1,MNX 
@@ -1250,8 +1271,6 @@ http://cdn.moviemazic.xyz:8083/Star-Movies/index.m3u8
 
 #EXTINF:-1,Star Movie Hd
 http://172.16.200.205:8088/501/index.m3u8
-http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
-
 
 
 #EXTINF:-1,Star Movie HD 
@@ -1279,10 +1298,9 @@ http://ms.towkai.com/star_gold_select/index.m3u8
 http://cdn.moviemazic.xyz:8083/SonyMAX/index.m3u8
 
 #EXTINF:-1,Sony max SD 
-https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
 
 #EXTINF:-1,Sony max HD 
-https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+http://172.19.17.34:8080/play/atNlTU0ytnnobUdeqzn7174abdb1ynbAxIpqBYyYqIQ/m3u8
 
 #EXTINF:-1,Sony max 1
 https://bdtop1.tvhunter.top/max1/index.m3u8
@@ -1296,9 +1314,11 @@ http://cdn.moviemazic.xyz:8083/Feedget/SonyPIXHD/index.m3u8
 #EXTINF:-1,Sony Pix Hd
 http://172.16.200.205:8088/503/index.m3u8
 
+#EXTINF:-1,Sony Pix Hd
+http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6Wrqo_jpGli7ZfcoSJvNKLZE/m3u8
+
 #EXTINF:-1,Sony Sab Hd
-http://cdn.moviemazic.xyz:8083/Feedget/SonySABHD_10/index.m3u8
-https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+http://cdn.moviemazic.xyz:8083/SonySABHD/index.m3u8
 
 #EXTINF:-1,The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
@@ -1308,7 +1328,6 @@ https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
 
 #EXTINF:-1,ZEE CINEMA HD
 http://cdn.moviemazic.xyz:8083/ZeeCinemaHD/index.m3u8
-https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
 
 #EXTINF:-1,ZEE CINEMA HD
 http://172.16.200.205:8088/406/index.m3u8
@@ -1320,7 +1339,7 @@ https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8
 http://ms.towkai.com/zeecinema_ml/index.m3u8
 
 #EXTINF:-1,Zee TV 
-https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
+http://172.19.17.34:8080/play/WhxL0zgjweD4vbwGdbQpcWA_EwCY9I1XwoPQVyNlcRY/m3u8
 
 #EXTINF:-1,Movies Action 
 
@@ -1407,7 +1426,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 https://cdn.pishow.tv/ott/live/415/master.m3u8
 
 #EXTINF:1,B4U Music
-https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
 
 #EXTINF:1,B4U Music
 http://ms.towkai.com/b4umuzic_ml/index.m3u8
@@ -1449,6 +1467,8 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/in
 
 #EXTINF:-1,SANGET BANGLA 
 https://cdn.pishow.tv/ott/live/1143/master.m3u8
+
+#EXTINF:-1,SANGET BANGLA
 http://172.16.200.205:8088/702/index.m3u8
 
 #EXTINF:-1,SANGEET BHOJPURI
@@ -1493,11 +1513,14 @@ https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 #EXTINF:-1,Ary Digital 
 http://ms.towkai.com/arydigital_ml/index.m3u8
 
+#EXTINF:-1,ARY DIGITAL HD
+http://172.19.17.34:8080/play/WhxL0zgjweD4vbwGdbQpcbEdfJwraViiLfB6TJ4ay7s/m3u8
+
 #EXTINF:-1, Ary News
 https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
 
-#EXTINF:1,Bol Entertainment",
-https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
+#EXTINF:1,Bol ENTERMENT
+htyps://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
 
 #EXTINF:1,Capital TV
 https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
@@ -1550,7 +1573,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
 #EXTINF:1,HUM TV HD
-https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
+http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WnMy-HOp-b7Q7MjsjgbBPew/m3u8
 
 #EXTINF:1,HUM TV Hd
 http://ms.towkai.com/hum_ml/index.m3u8
