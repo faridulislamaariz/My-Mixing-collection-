@@ -103,6 +103,9 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1,Star-Sports-2-HD
 http://172.16.200.205:8088/115/index.m3u8
 
+#EXTINF:-1,UNITED SPORT 1 HD 
+http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WuncjszRU1sC4ETCT65EkdE/m3u8
+
 #EXTINF:-1,Dd sports 
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 
@@ -796,7 +799,9 @@ https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8
 
 #EXTINF:-1,SANGET BANGLA 
 https://cdn.pishow.tv/ott/live/1143/master.m3u8
-http://172.16.200.205:8088/702/index.m3u8
+
+#EXTINF:-1,SANGET BANGLA
+http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6Wp-54kaeogmmn1xm1MkE-jE/m3u8
 
 #EXTINF:-1,Sananda TV 
 https://live.sanandatelevision.in/sananda/index.m3u8
@@ -1196,9 +1201,21 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1,MN PLUS
 http://103.135.253.32:8080/MN-PLUS/index.m3u8
+#EXTINF:-1,#EXTINF:-1,MN PLUS
+http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WpBIsFhhW-AOAJM2-yOHNyE/m3u8
+
+#EXTINF:-1,MNX 
+http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6Wn2UkWjNvqZATP2fX-AsKKo/m3u8
 
 #EXTINF:-1,MOVIES NOW HD 
 http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
+
+#EXTINF:-1,MOVIES NOW HD
+http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WrMZhkymiyDlWduZWzlB3gI/m3u8
+
+
+#EXTINF:-1,REMEDY NOW
+http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WjJt0iTrNNUm165g8LZ_jTI/m3u8
 
 #EXTINF:-1, Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
