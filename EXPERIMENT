@@ -12,6 +12,7 @@
 http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
 
 #EXTINF:-1,Tsport Hd
+http://172.19.17.34:8080/play/atNlTU0ytnnobUdeqzn715EXltYtj5hciwfy15HgZKE/m3u8
 
 #EXTINF:-1,Tsport Hd
 http://172.16.200.205:8088/102/index.m3u8
@@ -537,12 +538,17 @@ http://ms.towkai.com/ntvsd/index.m3u8
 https://nkafmbewiff.gpcdn.net/tile_3/master.m3u8
 http://103.135.253.32:8080/NTV/index.m3u8
 
+#EXTINF:-1,NTV HD
+http://172.19.17.34:8080/play/aZkPl-cdOimYve_rQk4Bp8QPj-XiDQU3PSGyxwEP8UA/m3u8
 #EXTINF:-1,News 21 HD
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 #EXTINF:-1, Nexus HD
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 http://ms.towkai.com/NexustvHD/index.m3u8
+
+#EXTINF:-1, Nexus HD
+http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WsJGitdqznjNwcEmBP-ja1A/m3u8
 
 #EXTINF:-1, Rajdhani Tv
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
@@ -598,6 +604,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1,Madani Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
+
+#EXTINF:-1,Madani Bangla (SOUND PROBLEM) 
 https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 
 #EXTINF:-1,Madani Bangla
@@ -608,6 +617,9 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
 #EXTINF:-1, Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1,PEACE TV Bangla
+http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WltNUSP0Qs5UmtMnkOTbsBk/m3u8
 
 #EXTINF:-1,Makkah Live 
 http://cdn.moviemazic.xyz:8083/modinalive/index.m3u8
