@@ -812,6 +812,9 @@ https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SUN BANGLA 
 https://homair-tv-production.up.railway.app/api/play/Sun%20Bangla.m3u8
 
+#EXTINF:-1,SUN BANGLA
+http://172.19.17.34:8080/play/-f4y0ulrz6bWYAIPS-WEf2epZU4_JUYmupKVjBv6WeQ/m3u8
+
 #EXTINF:-1,TARA TV
 https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
 
@@ -1376,6 +1379,9 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:1, Music India
 https://cdn.pishow.tv/ott/live/226/master.m3u
 
+#EXTINF:1, Music India
+http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6Wkm8EAUYPmvgzB4ryN8gBr0/m3u8
+
 #EXTINF:-1,Only music
 https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
 
@@ -1465,6 +1471,7 @@ https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:1,Geo News
 
 #EXTINF:1, Green TV
+http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WocRKwq0qMqpsovYu5D3rFA/m3u8
 
 #EXTINF:1,Falak TV
 https://falak.rst.ae/index.m3u8
