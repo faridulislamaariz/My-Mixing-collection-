@@ -127,7 +127,7 @@ https://live.msnetworks.net/a-sports/master.m3u8
 #EXTINF:-1,A SPORTS HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:GEO SPORT HD
+#EXTINF:-1,GEO SPORT HD
 http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WoUCBlUvsY3sVcE5x5xY6yc/m3u8
 
 #EXTINF:-1,PTV SPORTS 
@@ -246,12 +246,16 @@ https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-a
 
 #EXTINF:-1,ATN NEWS HD
 http://cdn.moviemazic.xyz:8083/ATNNews/index.m3u8
+
+#EXTINF:-1,ATN NEWS HD
 http://172.16.200.205:8088/203/index.m3u8
 http://ms.towkai.com/atnnews_ml/index.m3u8
 
-#EXTINF:-1, channel24 
+#EXTINF:-1, channel 24 
 http://cdn.moviemazic.xyz:8083/channel24/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
+
+#EXTINF:-1, channel 24
 http://ms.towkai.com/channel24_ml/index.m3u8
 
 #EXTINF:-1, Channel I HD
@@ -270,6 +274,8 @@ http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6Wm9kbO98yL9HIOQMl7vIZjg/m3u8
 
 #EXTINF:-1, DBC news 
 http://cdn.moviemazic.xyz:8083/DBCNews/index.m3u8
+
+#EXTINF:-1, DBC news
 http://172.16.200.205:8088/204/index.m3u8
 http://ms.towkai.com/dbcnews_ml/index.m3u8
 
@@ -848,6 +854,8 @@ http://103.151.60.162:2122/play/a0f5/index.m3u8
 #EXTINF:-1,Sony Aath
 http://cdn.moviemazic.xyz:8083/SonyAath/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8
+
+#EXTINF:-1,Sony Aath
 http://172.16.200.205:8088/306/index.m3u8
 
 #EXTINF:-1,Star Jalsha Hd
@@ -926,7 +934,7 @@ https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 
 #EXTINF:-1,DISNEP CHANNEL 
-http://172.16.200.205:8088/602/
+http://172.16.200.205:8088/602/index.m3u8
 
 #EXTINF:-1,DORONTU TV
 http://ms.towkai.com/DurontoHD/index.m3u8
