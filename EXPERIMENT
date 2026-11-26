@@ -111,6 +111,7 @@ https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 
 #EXTINF:-1,Dd sports 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
 #EXTINF:-1,A SPORTS HD
 http://cdn.moviemazic.xyz:8083/ASports/index.m3u8
 
@@ -137,6 +138,7 @@ https://live.msnetworks.net/ptv-sports/master.m3u8
 
 #EXTINF:-1,PTV SPORT SD
 http://103.16.24.4:8083/4.m3u8
+
 #EXTINF:-1,TenCricket
 http://cdn.moviemazic.xyz:8083/TenCricket/index.m3u8
 
@@ -166,19 +168,19 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 https://stream1.liveland.af/hls/tv/ariana/playlist.m3u8
 https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
 
+#EXTINF:-1,FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
 
 #EXTINF:-1,INTERTV 
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 
-#EXTINF:-1,Real Madrid 
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-
 #EXTINF:-1,MUTV
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 
+#EXTINF:-1,Real Madrid 
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
-#EXTINF:-1,FIFA+
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1, SUPER sports
 http://172.16.60.2:8088/101/index.m3u8
@@ -546,6 +548,7 @@ http://103.135.253.32:8080/NTV/index.m3u8
 
 #EXTINF:-1,NTV HD
 http://172.19.17.34:8080/play/aZkPl-cdOimYve_rQk4Bp8QPj-XiDQU3PSGyxwEP8UA/m3u8
+
 #EXTINF:-1,News 21 HD
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
@@ -998,7 +1001,6 @@ http://cdn.moviemazic.xyz:8083/AnimalPlanetHD/index.m3u8
 
 
 #EXTINF:-1, Animal Planet HD
-
 http://172.19.17.34:8080/play/xxpuvjsDcGJyOODSBK5FfcX_Y4C2Br4SRI8dUT6LhHM/m3u8
 
 #EXTINF:-1, ADVENTURE EARTH 
