@@ -253,7 +253,7 @@ http://ms.towkai.com/atnnews_ml/index.m3u8
 
 #EXTINF:-1, channel 24 
 http://cdn.moviemazic.xyz:8083/channel24/index.m3u8
-https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
+
 
 #EXTINF:-1, channel 24
 http://ms.towkai.com/channel24_ml/index.m3u8
@@ -394,7 +394,7 @@ http://ms.towkai.com/banglatv/index.m3u8
 #EXTINF:-1,Bijoy TV
 http://ms.towkai.com/bijoy_ml/index.m3u8
 
-EXTINF:-1,Bijoy TV
+#EXTINF:-1,Bijoy TV
 http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WkA6wH0dy36UnJbd-3LxlpI/m3u8
 
 #EXTINF:-1,Boishakhi TV HD 
@@ -403,10 +403,10 @@ http://cdn.moviemazic.xyz:8083/BoishakhiTV/index.m3u8
 #EXTINF:-1,Boishakhi TV HD
 http://ms.towkai.com/boishakhi_ml/index.m3u8
 
-#EXTINF:-1,BTV 
+#EXTINF:-1,BTV News
 http://cdn.moviemazic.xyz:8083/btv/index.m3u8
 
-#EXTINF:-1,BTV
+#EXTINF:-1,BTV NEWS
 http://ms.towkai.com/BTVNewsHD/index.m3u8
 
 #EXTINF:-1,BTV NEWS
@@ -483,7 +483,6 @@ http://cdn.moviemazic.xyz:8083/live-5/index.m3u8
 #EXTINF:-1,Gazi Tv
 http://172.16.60.2:8088/106/index.m3u8
 http://172.16.200.205:8088/106/index.m3u8
-http://103.135.253.32:8080/Gazi-TV/index.m3u8
 
 #EXTINF:-1,Gazi Tv
 http://ms.towkai.com/gazi_ml/index.m3u8
@@ -550,7 +549,6 @@ http://ms.towkai.com/ntvsd/index.m3u8
 
 #EXTINF:-1,NTV HD
 https://nkafmbewiff.gpcdn.net/tile_3/master.m3u8
-http://103.135.253.32:8080/NTV/index.m3u8
 
 #EXTINF:-1,NTV HD
 http://172.19.17.34:8080/play/aZkPl-cdOimYve_rQk4Bp8QPj-XiDQU3PSGyxwEP8UA/m3u8
@@ -633,19 +631,19 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1, Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1,PEACE TV Bangla
+#EXTINF:-1,PEACE TV URDU
 http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WltNUSP0Qs5UmtMnkOTbsBk/m3u8
 
 #EXTINF:-1,Makkah Live 
 http://cdn.moviemazic.xyz:8083/modinalive/index.m3u8
 
-#EXTINF:-1,Saudi Quran
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
-#EXTINF:-1,Sunnah tv 
+#EXTINF:-1,MAKKAH TV 
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
+#EXTINF:-1,Saudi Quran
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
 
 
@@ -688,9 +686,10 @@ https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3
 
 #EXTINF:-1,Cnn News
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8 
+ 
 
-
+#EXTINF:-1,CNN NEWS
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1,CGTN
 https://0472.org/hls/cgtn.m3u8
@@ -849,11 +848,9 @@ http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6Wp-54kaeogmmn1xm1MkE-jE/m3u8
 https://live.sanandatelevision.in/sananda/index.m3u8
 
 #EXTINF:-1,Star bangla
-http://103.151.60.162:2122/play/a0f5/index.m3u8
 
 #EXTINF:-1,Sony Aath
 http://cdn.moviemazic.xyz:8083/SonyAath/index.m3u8
-https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8
 
 #EXTINF:-1,Sony Aath
 http://172.16.200.205:8088/306/index.m3u8
@@ -866,6 +863,8 @@ http://172.16.200.205:8088/302/index.m3u8
 
 #EXTINF:-1, Jalsha Movies HD
 http://cdn.moviemazic.xyz:8083/StarJalshaMovies/index.m3u8 
+
+#EXTINF:-1, Jalsha Movies HD
 http://172.16.200.205:8088/303/index.m3u8
 
 #EXTINF:-1,JALSA MOVIES SD 
@@ -889,11 +888,12 @@ https://stream.ottlive.co.in/ubangla/index.m3u8
 #EXTINF:-1,Zee Bangla
 http://cdn.moviemazic.xyz:8083/ZeeBanglaTV/index.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8 
-https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
-http://172.16.200.205:8088/301/index.m3u8
+
 
 #EXTINF:-1,ZEE BANGLA HD
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1,ZEE BANGLA HD
 http://172.16.200.205:8088/301/index.m3u8
 
 #EXTINF:-1,ZEE BANGLA HD
@@ -903,7 +903,6 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b8960
 http://103.16.24.4:8083/12.m3u8
 
 #EXTINF:-1,Zee Bangla cinema 
-https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8
 http://172.16.200.205:8088/305/index.m3u8
 
 
