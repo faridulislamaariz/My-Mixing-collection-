@@ -33,6 +33,9 @@ http://103.16.24.4:8083/14.m3u8
 http://172.16.200.205:8088/128/index.m3u8
 
 #EXTINF:-1,EurosportHD
+http://172.16.60.2:8088/128/index.m3u8
+
+#EXTINF:-1,EurosportHD
 http://cdn.moviemazic.xyz:8083/EurosportHD/index.m3u8
 
 #EXTINF:-1,SONY TEN 1 HD 
@@ -52,6 +55,8 @@ http://cdn.moviemazic.xyz:8083/SonyTen2/index.m3u8
 #EXTINF:-1,SonyTen Sports 2 HD
 http://172.16.200.205:8088/120/index.m3u8
 
+#EXTINF:-1,SonyTen Sports 2 HD
+http://172.16.60.2:8088/120/index.m3u8
 
 #EXTINF:-1,SonyTen Sports 2 SD
 http://103.16.24.4:8083/6.m3u8
@@ -75,6 +80,9 @@ http://cdn.moviemazic.xyz:8083/StarSportsSelect1/index.m3u8
 
 #EXTINF:-1,Star SPORTS SELECT  1 HD
 http://172.16.200.205:8088/123/index.m3u8
+
+#EXTINF:-1,Star SPORTS SELECT  1 HD
+http://172.16.60.2:8088/123/index.m3u8
 
 #EXTINF:-1,Star SPORTS SELECT  1 HD
 
@@ -101,6 +109,9 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1,Star-Sports-2-HD
 http://172.16.200.205:8088/115/index.m3u8
+
+#EXTINF:-1,Star-Sports-2-HD
+http://172.16.60.2:8088/115/index.m3u8
 
 #EXTINF:-1,UNITED SPORT 1 HD 
 http://172.19.17.34:8080/play/3byAYyQhPBO9ARa0Rup6WuncjszRU1sC4ETCT65EkdE/m3u8
@@ -179,8 +190,7 @@ https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 
 #EXTINF:-1,Real Madrid 
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-en-web/master.m3u8
 
 #EXTINF:-1, SUPER sports
 http://172.16.60.2:8088/101/index.m3u8
@@ -433,6 +443,9 @@ https://box.bbaria.net/Channel9/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
+
+#EXTINF:-1, Channel 16
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/playlist.m3u8
 
 #EXTINF:-1,CHANNEL 52
 http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
